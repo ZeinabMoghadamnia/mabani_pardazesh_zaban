@@ -1,0 +1,4630 @@
+Success	Sputnik-1
+Success	Sputnik-2
+Failure	Vanguard TV3
+Success	Explorer 1
+Failure	Vanguard TV3BU
+Failure	Explorer 2
+Success	Vanguard 1
+Success	Explorer 3
+Failure	Sputnik-3 #1
+Failure	Vanguard TV5
+Success	Sputnik-3 #2
+Failure	Vanguard SLV-1
+Failure	Vanguard SLV-2
+Failure	Pilot-1 (D1)
+Success	Explorer 4
+Failure	Pilot-2 (D2)
+Failure	Pioneer 0
+Failure	Pilot-3 (D3)
+Failure	Explorer 5
+Failure	Pilot-4 (R1)
+Failure	Pilot-5 (R2)
+Failure	Pilot-6 (R3
+Failure	E-1 n†­1 (Luna-1)
+Failure	Vanguard SLV-3
+Partial Failure	Pioneer 1
+Failure	E-1 n†­2 (Luna-1)
+Failure	Beacon 1
+Failure	Pioneer 2
+Failure	E-1 n†­3 (Luna-1)
+Partial Failure	Pioneer 3
+Success	SCORE
+Partial Failure	Luna-1
+Success	Vanguard 2
+Failure	Discoverer 1
+Success	Discoverer 2
+Failure	Vanguard SLV-5
+Failure	Discoverer 3
+Failure	E-1A n†­1 (Luna-2)
+Failure	Vanguard SLV-6
+Failure	Discoverer 4
+Success	Explorer 6
+Success	Discoverer 5
+Success	Discoverer 6
+Partial Failure	Big Joe 1
+Success	Luna-2
+Failure	Transit 1A
+Partial Failure	Vanguard 3
+Success	Luna-3
+Success	Discoverer 7
+Failure	Discoverer 8
+Failure	Pioneer P-3
+Failure	Discoverer 9
+Failure	Discoverer 10
+Failure	Midas 1
+Success	Pioneer 5
+Success	TIROS-1
+Success	Transit 1B
+Failure	E-3 n†­2 (Luna-3)
+Success	Discoverer 11
+Failure	E-3 n†­3 (Luna-3)
+Failure	Echo 1
+Success	Korabl-Sputnik 1
+Success	Midas 2
+Success	Transit 2A & GRAB-1
+Failure	Discoverer 12
+Failure	1K n†­2 (Korabl-Sputnik 2)
+Failure	Mercury-Atlas 1 (MA-1)
+Success	Discoverer 13
+Success	Echo 1A
+Success	Discoverer 14
+Failure	Courier 1A
+Success	Korabl-Sputnik 2
+Success	Discoverer 15
+Failure	Pioneer P-30
+Success	Courier 1B
+Failure	1M n†­1 (Marsnik 1)
+Failure	Samos 1
+Failure	1M n†­2 (Marsnik 2)
+Failure	Discoverer 16
+Success	Discoverer 17
+Failure	Mercury-Redstone 1 (MR-1)
+Success	TIROS-2
+Failure	Transit 3A & GRAB-2
+Success	Korabl-Sputnik 3
+Failure	Explorer (S-56)
+Success	Discoverer 18
+Failure	Pioneer P-31
+Success	Mercury-Redstone 1A (MR-1A)
+Success	Discoverer 19
+Failure	1K n†­5 (Korabl-Sputnik 3)
+Success	Mercury-Redstone 2 (MR-2)
+Success	Samos 2
+Failure	1VA n†­1 (Venera 1)
+Success	Venera 1
+Success	Explorer 9 (S-56A)
+Success	Discoverer 20
+Success	Discoverer 21
+Success	Mercury-Atlas 2 (MA-2)
+Success	Transit 3B & Lofti 1
+Success	Korabl-Sputnik 4
+Success	Mercury-Redstone BD (MR-BD)
+Success	Korabl-Sputnik 5
+Success	Explorer 10
+Failure	Discoverer 22
+Success	Discoverer 23
+Success	Vostok 1
+Failure	Mercury-Atlas 3 (MA-3)
+Success	Freedom 7 (MR-3)
+Failure	Discoverer 24
+Success	Discoverer 25
+Success	"Transit 4A, Injun 1 & GRAB-3"
+Failure	Explorer (S-55)
+Success	Discoverer 26
+Success	TIROS-3
+Success	Midas 3
+Success	Liberty Bell 7 (MR-4)
+Failure	Discoverer 27
+Failure	Discoverer 28
+Success	Vostok 2
+Success	Explorer 12
+Failure	Ranger 1
+Partial Failure	Explorer 13
+Success	Discoverer 29
+Failure	Samos 3
+Success	Discoverer 30
+Success	Mercury-Atlas 4 (MA-4)
+Success	Discoverer 31
+Success	Discoverer 32
+Partial Failure	Midas 4
+Failure	Discoverer 33
+Failure	DS-1 1
+Failure	Mercury-Scout 1 (MS-1)
+Failure	Discoverer 34
+Success	Discoverer 35
+Success	Transit 4B & TRAAC
+Failure	Ranger 2
+Failure	Samos 4
+Success	Mercury-Atlas 5 (MA-5)
+Failure	Zenit-2 n†­1
+Success	Discoverer 36 & Oscar 1
+Failure	DS-1 2
+Partial Failure	Samos 5
+Failure	Discoverer 37
+Failure	LOFTI-2A & Others
+Partial Failure	Ranger 3
+Success	TIROS-4
+Success	Friendship 7 (MA-6)
+Partial Failure	FTV 2301
+Success	Discoverer 38
+Success	OSO-1
+Success	Samos 6
+Success	Cosmos 1
+Success	Cosmos 2
+Success	Midas 5
+Success	Discoverer 39
+Success	Ranger 4
+Success	Cosmos 3
+Success	Cosmos 4
+Failure	Solrad 4B
+Success	Ariel 1
+Success	Samos 7
+Success	FTV 1125
+Failure	AC-1 (Test Vehicle)
+Failure	ANNA 1A
+Success	FTV 1126
+Success	Aurora 7 (MA-7)
+Failure	DSAP-1 F1 (Program 35)
+Success	Cosmos 5
+Success	FTV 1128
+Failure	Zenit-2 n†­3
+Success	FTV 1127 & Oscar 2
+Success	Samos 8
+Success	FTV 2312
+Success	TIROS-5
+Success	FTV 1129
+Success	FTV 1151
+Success	Cosmos 6
+Success	Telstar 1
+Success	Samos 9
+Success	FTV 1130
+Failure	Mariner 1
+Success	FTV 1131
+Success	Cosmos 7
+Success	FTV 1152
+Success	Samos 10
+Success	Vostok 3
+Success	Vostok 4
+Success	Cosmos 8
+Success	DSAP-1 F2 (Program 35)
+Failure	2MV-1 n†­1 (Venera 2)
+Success	Mariner 2
+Success	FTV 1153
+Failure	2MV-1 n†­2 (Venera 2)
+Success	FTV 1132
+Failure	2MV-2 n†­1 (Venera 2)
+Success	FTV 1133 & ERS-2
+Success	TIROS-6
+Success	Cosmos 9
+Success	Alouette 1 & TAVE
+Success	FTV 1154
+Success	Explorer 14
+Success	Sigma 7 (MA-8)
+Success	FTV 1134
+Success	Cosmos 10
+Success	Ranger 5
+Success	Cosmos 11
+Failure	2MV-4 n†­1 (Mars 1)
+Failure	1MS #2
+Success	STARAD
+Success	Explorer 15
+Success	ANNA 1B
+Success	Mars 1
+Failure	2MV-3 n†­1 (Mars 2)
+Success	FTV 1136
+Success	Samos 11
+Success	FTV 1135
+Success	FTV 1155
+Success	Injun 3 & Others
+Success	Relay 1
+Success	FTV 1156
+Success	Explorer 16 (S-55B)
+Failure	Midas 6
+Success	Transit-5A 1
+Success	Cosmos 12
+Failure	E-6 n†­1 (Luna 4)
+Failure	E-6 n†­2 (Luna 4)
+Success	DSAP-1 F3 (Program 35)
+Success	Cosmos 13
+Success	Luna 4
+Failure	Transit-5A 2
+Failure	DS-P1 #2
+Success	Cosmos 14
+Success	Cosmos 15
+Failure	DSAP-1 F4 (Program 35)
+Success	Cosmos 16
+Success	Midas 7
+Success	Faith 7 (MA-9)
+Success	Cosmos 17
+Success	Cosmos 18
+Failure	DS-MT #1
+Failure	Midas 8
+Success	Vostok 5
+Success	Transit-5A 3
+Success	Vostok 6
+Success	CRL-1 (GRS)
+Failure	Zenit-2 n†­12
+Success	KH-7 Gambit 4001
+Success	Midas 9
+Success	Cosmos 19
+Failure	DS-A1 #3
+Success	KH-7 Gambit 4002
+Failure	DSAP-1 F5 (Program 35)
+Success	Vela 1A/1B
+Success	Cosmos 20
+Failure	DS-A1 #4
+Success	KH-7 Gambit 4003
+Success	Poliot-1
+Success	Cosmos 21
+Success	Cosmos 22
+Success	AC-2 (Test Vehicle)
+Failure	Zenit-2 n†­14
+Success	Cosmos 23
+Success	KH-7 Gambit 4004
+Success	Cosmos 24
+Success	Explorer 19 (AD-A)
+Success	SA-5
+Success	Elektron 1 & 2
+Success	Ranger 6
+Failure	3MV-1 n†­2 (Zond 1)
+Success	KH-7 Gambit 4005
+Success	Cosmos 25
+Success	KH-7 Gambit 4006
+Success	Cosmos 26
+Failure	E-6 n†­6
+Partial Failure	Cosmos 27
+Success	Zond 1
+Success	Cosmos 28
+Success	Gemini 1
+Success	Poliot-2
+Failure	E-6 n†­5 (Luna 5)
+Success	KH-7 Gambit 4007
+Success	Cosmos 29
+Success	Cosmos 30
+Success	KH-7 Gambit 4008
+Success	A-101
+Failure	Molniya-1 n†­1
+Success	Cosmos 31
+Success	Cosmos 32
+Success	Cosmos 33
+Failure	AC-3 (Test Vehicle)
+Success	Cosmos 34
+Success	KH-7 Gambit 4009
+Success	Elektron 3 & 4
+Success	Cosmos 35
+Success	Vela 2A/2B
+Success	Ranger 7
+Success	Cosmos 36
+Success	Cosmos 37
+Success	KH-7 Gambit 4010
+Success	"Cosmos 38, 39 & 40"
+Success	Cosmos 41
+Success	Cosmos 42 & 43
+Success	Cosmos 44
+Failure	Transtage 1
+Success	OGO 1
+Success	Cosmos 45
+Success	A-102
+Success	KH-7 Gambit 4011
+Success	Cosmos 46
+Success	Cosmos 47
+Failure	KH-7 Gambit 4012
+Success	Voskhod 1
+Success	Cosmos 48
+Success	KH-7 Gambit 4013
+Failure	"Strela-1 #4, 5, 6"
+Success	Cosmos 49
+Success	Cosmos 50
+Failure	Mariner 3
+Success	Mariner 4
+Success	Zond 2
+Failure	DS-2 #2
+Success	KH-7 Gambit 4014
+Success	Cosmos 51
+Success	Transtage 2
+Partial Failure	Surveyor-Model 1
+Success	Cosmos 52
+Success	Gemini 2
+Failure	OV1-1
+Success	KH-7 Gambit 4015
+Success	Cosmos 53
+Success	LES 1
+Failure	DS-P1 You #2
+Success	A-103
+Success	Ranger 8
+Failure	DS-A1 #6
+Success	"Cosmos 54, 55 & 56"
+Success	Cosmos 57
+Success	Cosmos 58
+Failure	Surveyor-SD 1
+Success	Cosmos 59
+Success	Cosmos 60
+Success	KH-7 Gambit 4016
+Success	"Cosmos 61, 62 & 63"
+Success	Voskhod 2
+Success	Ranger 9
+Success	Gemini 3
+Success	Cosmos 64
+Success	SNAPSHOT
+Failure	E-6 n†­8 (Luna)
+Success	Cosmos 65
+Success	Molniya-1 n†­3
+Success	KH-7 Gambit 4017
+Success	LES 2 & LCS 1
+Success	Cosmos 66
+Success	Luna 5
+Success	A-104
+Success	Cosmos 67
+Success	KH-7 Gambit 4018
+Failure	OV1-3
+Success	Gemini IV
+Success	Luna 6
+Success	Cosmos 68
+Success	Transtage 5
+Success	Cosmos 69
+Success	KH-7 Gambit 4019
+Success	Cosmos 70
+Failure	KH-7 Gambit 4020
+Failure	Zenit-2 n†­28
+Success	Cosmos 71 to 75
+Success	Proton-1
+Success	Zond 3
+Success	Vela 3A/3B
+Success	Cosmos 76
+Success	A-105
+Success	Cosmos 77
+Success	KH-7 Gambit 4021
+Success	Surveyor SD-2
+Success	Cosmos 78
+Success	Gemini V
+Success	Cosmos 79
+Success	Cosmos 80 to 84
+Success	Cosmos 85
+Success	Cosmos 86 to 90
+Success	Cosmos 91
+Success	KH-7 Gambit 4022
+Success	Luna 7
+Success	OV1-2
+Success	Molniya-1 n†­4
+Failure	LCS-2 & OV2-1
+Success	Cosmos 92
+Success	Cosmos 93
+Failure	GATV 5002
+Success	Cosmos 94
+Success	Proton-2
+Success	Cosmos 95
+Success	KH-7 Gambit 4023
+Success	Venera 2
+Success	Venera 3
+Partial Failure	Cosmos 96
+Success	Cosmos 97
+Success	Ast rix
+Success	Cosmos 98
+Success	Luna 8
+Success	Gemini VII
+Success	Cosmos 99
+Success	Gemini VI-A
+Success	Cosmos 100
+Success	Cosmos 101
+Partial Failure	"LES 3 & 4, OV2-3, OSCAR-4"
+Success	Cosmos 102
+Success	Cosmos 103
+Failure	DS-K40 #1
+Partial Failure	Cosmos 104
+Success	KH-7 Gambit 4024
+Success	Cosmos 105
+Success	Cosmos 106
+Success	Luna 9
+Success	Cosmos 107
+Success	Cosmos 108
+Success	KH-7 Gambit 4025
+Success	Diapason
+Success	Cosmos 109
+Failure	DS-K40 #2
+Success	Cosmos 110
+Success	AS-201
+Partial Failure	Cosmos 111
+Success	GATV 5003
+Success	Cosmos 112
+Success	KH-7 Gambit 4026
+Success	Cosmos 113
+Failure	Proton-3a
+Failure	Molniya-1 n†­5
+Success	OV1-4/OV1-5
+Success	Luna 10
+Success	Cosmos 114
+Partial Failure	Surveyor Model-3
+Success	OAO-1
+Success	KH-7 Gambit 4027
+Success	Cosmos 115
+Success	Molniya-1 n†­6
+Success	Cosmos 116
+Success	Cosmos 117
+Success	Cosmos 118
+Success	KH-7 Gambit 4028
+Partial Failure	Gemini VIII
+Failure	Zenit-4 n†­18
+Failure	GATV 5004
+Success	Cosmos 119
+Success	Surveyor 1
+Success	ATDA
+Partial Failure	Gemini IX-A
+Success	KH-7 Gambit 4029
+Success	OGO-3
+Success	Cosmos 120
+Partial Failure	Midas 10
+Success	OPS 9311-9317 & GGTS-1
+Success	Cosmos 121
+Success	Cosmos 122
+Success	AS-203
+Success	Proton-3
+Success	Cosmos 123
+Success	KH-7 Gambit 4030
+Partial Failure	OV1-7/OV1-8
+Success	Cosmos 124
+Success	GATV 5005
+Success	Gemini X
+Success	Cosmos 125
+Success	Cosmos 126
+Success	KH-8
+Success	Cosmos 127
+Success	Lunar Orbiter 1
+Success	KH-7 Gambit 4031
+Success	Midas 11
+Success	Luna 11
+Success	AS-202
+Failure	"IDCSP-1 8-14, GGTS-2"
+Success	Cosmos 128
+Success	GATV 5006
+Success	Gemini XI
+Failure	Zenit-2 n†­40
+Success	KH-7 Gambit 4032
+Partial Failure	OGTch 1
+Success	Surveyor 2
+Failure	Osumi
+Success	OPS 4096
+Success	Midas 12
+Success	KH-7 Gambit 4033
+Success	Cosmos 129
+Success	Molniya-1 n†­7
+Success	Cosmos 130
+Success	Luna 12
+Success	Surveyor SD-4
+Partial Failure	OGTch 2
+Success	KH-7 Gambit 4034
+Success	"Gemini B, OV4-3, &  OV4-1R/T"
+Success	Lunar Orbiter 2
+Success	GATV 5001
+Success	Gemini XII
+Success	Cosmos 131
+Failure	Strela-2 #2
+Success	Cosmos 132
+Success	Cosmos 133
+Success	Cosmos 134
+Success	KH-7 Gambit 4035
+Success	ATS-1
+Success	OV1-9/OV1-10
+Success	Cosmos 135
+Prelaunch Failure	Soyuz 7K-OK n†­1
+Success	OPS 8968
+Success	Cosmos 136
+Failure	Osumi
+Success	Luna 13
+Success	Cosmos 137
+Success	OPS 9321-9328
+Success	Cosmos 138
+Success	Cosmos 139
+Failure	Apollo 1
+Success	KH-7 Gambit 4036
+Success	Lunar Orbiter 3
+Success	Cosmos 140
+Partial Failure	Diad me 1
+Success	Cosmos 141
+Success	Cosmos 142
+Success	Diad me 2
+Success	OPS 4204
+Partial Failure	Cosmos 143
+Success	Cosmos 144
+Success	Cosmos 145
+Success	Cosmos 146
+Success	Cosmos 147
+Success	Cosmos 148
+Success	Cosmos 149
+Success	Cosmos 150
+Failure	OGTch 3
+Success	Cosmos 151
+Success	Cosmos 152
+Failure	Osumi
+Success	Cosmos 153
+Partial Failure	ATS-2
+Partial Failure	Cosmos 154
+Success	Cosmos 155
+Success	Surveyor 3
+Success	Soyuz 1
+Success	San Marco 2
+Failure	OPS 4243
+Success	Cosmos 156
+Success	"OPS-6638, OPS-6679, ORS-4, OV5-1, OV5-3"
+Success	Lunar Orbiter 4
+Success	Cosmos 157
+Success	Cosmos 158
+Partial Failure	Cosmos 159
+Success	Cosmos 160
+Success	Cosmos 161
+Success	KH-7 Gambit 4037
+Success	Molniya-1 n†­8
+Success	Cosmos 162
+Success	KH-7 Gambit 4038
+Success	Cosmos 163
+Success	Cosmos 164
+Success	Venera 4
+Success	Cosmos 165
+Success	Mariner 5
+Success	Cosmos 166
+Partial Failure	Cosmos 167
+Failure	Zenit-4 n†­31
+Partial Failure	OPS 4282
+Failure	Tselina-OM #1
+Success	"OPS 9331-9334, LES-5 & DODGE"
+Success	Cosmos 168
+Success	Surveyor 4
+Success	Cosmos 169
+Failure	Zenit-4 n†­32
+Partial Failure	OV1-11/OV1-12/OV1-86
+Success	Cosmos 170
+Success	Lunar Orbiter 5
+Success	Cosmos 171
+Success	Cosmos 172
+Success	OPS 4866
+Success	Cosmos 173
+Success	Cosmos 174
+Failure	Zenit-2 n†­51
+Success	Surveyor 5
+Success	Cosmos 175
+Success	Cosmos 176
+Success	Cosmos 177
+Success	Cosmos 178
+Success	OPS 4941
+Success	Cosmos 179
+Success	Cosmos 180
+Failure	Zaliv #2
+Failure	Zond
+Success	Molniya-1 n†­9
+Success	Cosmos 181
+Success	VKZ
+Success	Cosmos 182
+Success	Cosmos 183
+Success	Molniya-1 n†­12
+Success	Cosmos 184
+Success	OPS 4995
+Success	Cosmos 185
+Success	Cosmos 186
+Success	Cosmos 187
+Success	Cosmos 188
+Success	Cosmos 189
+Success	Cosmos 190
+Success	ATS-3
+Success	Surveyor 6
+Success	Apollo 4
+Success	Cosmos 191
+Failure	Zond
+Success	Cosmos 192
+Success	Cosmos 193
+Success	WRESAT
+Success	Cosmos 194
+Success	OPS 5000
+Success	Cosmos 195
+Success	Cosmos 196
+Success	Cosmos 197
+Success	Cosmos 198
+Success	Surveyor 7
+Success	Cosmos 199
+Success	OPS 5028
+Success	Cosmos 200
+Success	Apollo 5
+Success	Cosmos 201
+Failure	E-6LS n†­112
+Success	Cosmos 202
+Success	Cosmos 203
+Partial Failure	Zond-4
+Success	OGO-5
+Success	Cosmos 204
+Success	Cosmos 205
+Failure	DS-U1-Ya #1
+Success	OPS 5057
+Success	Cosmos 206
+Success	Cosmos 207
+Success	Cosmos 208
+Success	Cosmos 209
+Success	VKZ
+Success	Cosmos 210
+Partial Failure	Apollo 6
+Success	OV1-13/OV1-14
+Success	Luna 14
+Success	Cosmos 211
+Success	Cosmos 212
+Success	Cosmos 213
+Success	OPS 5105
+Success	Cosmos 214
+Success	Cosmos 215
+Success	Cosmos 216
+Success	Molniya-1 n†­10
+Failure	Zond
+Partial Failure	Cosmos 217
+Success	Cosmos 218
+Success	Cosmos 219
+Success	Cosmos 220
+Success	Cosmos 221
+Success	Cosmos 222
+Success	Cosmos 223
+Success	Cosmos 224
+Failure	Sfera #2
+Success	OPS 5138
+Success	Cosmos 225
+Success	Cosmos 226
+Success	OPS 9341-9348
+Failure	Strela-2 #4
+Success	Cosmos 227
+Success	Cosmos 228
+Success	Cosmos 229
+Success	Cosmos 230
+Success	Molniya-1 n†­13
+Success	Cosmos 231
+Success	OV1-15/OV1-16
+Success	Cosmos 232
+Success	Cosmos 233
+Success	Cosmos 234
+Success	Canyon 1 (AFP-827)
+Success	OPS 5187
+Success	OPS 5247
+Success	Cosmos 235
+Partial Failure	ATS-4
+Failure	STP P68-1
+Success	Cosmos 236
+Success	Cosmos 237
+Success	Cosmos 238
+Success	Cosmos 239
+Success	Cosmos 240
+Success	Zond-5
+Success	Cosmos 241
+Success	Cosmos 242
+Success	Cosmos 243
+Success	"LES-6, OV2-5, OV5-2, OV5-4"
+Success	Cosmos 244
+Success	Cosmos 245
+Success	Molniya-1 n†­14
+Partial Failure	Cosmos 246
+Success	Cosmos 247
+Success	Apollo 7
+Success	Cosmos 248
+Success	Cosmos 249
+Success	Soyuz 2
+Success	Soyuz 3
+Success	Cosmos 250
+Success	Cosmos 251
+Success	Cosmos 252
+Success	OPS 5296
+Success	Zond-6
+Success	Cosmos 253
+Success	Proton-4
+Success	Cosmos 254
+Success	STV-1
+Success	Cosmos 255
+Success	Cosmos 256
+Success	Cosmos 257
+Success	OPS 6518
+Success	OAO-2
+Success	Cosmos 258
+Success	Cosmos 259
+Success	Cosmos 260
+Success	Cosmos 261
+Success	Apollo 8
+Success	Cosmos 262
+Success	Venera 5
+Success	Venera 6
+Success	Cosmos 263
+Success	Soyuz 4
+Success	Soyuz 5
+Failure	Zond
+Success	OPS 7585
+Success	Cosmos 264
+Failure	US-A n†­5
+Failure	Meteor n†­11
+Success	Cosmos 265
+Success	OPS-0757 (Tacsat)
+Failure	Luna-15a
+Failure	3L (Zond L1S-1)
+Success	Mariner 6
+Success	Cosmos 266
+Success	Cosmos 267
+Success	Apollo 9
+Success	OPS 4248
+Success	Cosmos 268
+Success	Cosmos 269
+Success	Cosmos 270
+Success	Cosmos 271
+Success	Cosmos 272
+Success	OV1-17/OV1-18/OV1-19
+Success	Cosmos 273
+Success	Cosmos 274
+Failure	Meteor n†­12
+Failure	M-69 N†­521
+Success	Mariner 7
+Success	Cosmos 275
+Failure	M-69 ???522
+Success	Cosmos 276
+Success	Cosmos 277
+Success	Cosmos 278
+Success	Molniya-1 n†­16
+Success	Canyon 2 (AFP-827)
+Success	Cosmos 279
+Success	OPS 5310
+Success	Cosmos 280
+Partial Failure	Cosmos 281
+Success	Apollo 10
+Success	Cosmos 282
+Success	"OPS-6909, OPS-6911, OV5-5, OV5-6, OV5-9"
+Success	Cosmos 283
+Success	Cosmos 284
+Success	Cosmos 285
+Success	OPS 1077
+Success	BOR-2 Shuttle
+Failure	Luna-15b
+Success	Cosmos 286
+Success	Cosmos 287
+Success	Cosmos 288
+Failure	STV-2
+Failure	5L (Zond L1S-2)
+Success	Cosmos 289
+Success	Apollo 11
+Success	Cosmos 290
+Success	Molniya-1 n†­18
+Failure	DS-P1-You #23
+Success	Cosmos 291
+Success	Zond-7
+Success	ATS-5
+Success	Cosmos 292
+Success	Cosmos 293
+Success	Cosmos 294
+Success	Cosmos 295
+Success	OPS 7807
+Success	Cosmos 296
+Success	Cosmos 297
+Success	Cosmos 298
+Success	Cosmos 299
+Failure	Osumi
+Success	Cosmos 300 (luna-16a)
+Success	Cosmos 301
+Success	Meteor n†­13
+Success	Soyuz 6
+Success	Soyuz 7
+Success	Soyuz 8
+Success	Intercosmos-1
+Success	Cosmos 302
+Success	Cosmos 303
+Success	Cosmos 304
+Failure	Cosmos 305 (Luna-16b)
+Success	Cosmos 306
+Success	Cosmos 307
+Success	OPS 8455
+Success	IS Mass Model
+Success	Cosmos 308
+Success	Cosmos 309
+Success	Apollo 12
+Success	Cosmos 310
+Failure	Test flight
+Success	Cosmos 311
+Success	Cosmos 312
+Failure	Zond (L1E)
+Success	Cosmos 313
+Success	Cosmos 314
+Success	Cosmos 315
+Success	Cosmos 316
+Success	Cosmos 317
+Success	Intercosmos-2
+Failure	Ionosfernaya #1
+Success	Cosmos 318
+Success	OPS 6531
+Success	Cosmos 319
+Success	Cosmos 320
+Success	Cosmos 321
+Success	Cosmos 322
+Failure	DS-P1-I #6
+Failure	Luna-16c
+Success	Cosmos 323
+Success	Osumi
+Success	Molniya-1 n†­17
+Success	Cosmos 324
+Success	Cosmos 325
+Success	WIKA & MIKA
+Success	Cosmos 326
+Partial Failure	Meteor n†­14
+Success	Cosmos 327
+Success	Cosmos 328
+Success	Cosmos 329
+Success	Cosmos 330
+Success	Cosmos 331
+Success	Vela 11 & 12
+Success	Cosmos 332
+Success	Apollo 13
+Success	Cosmos 333
+Success	OPS 2863
+Success	Cosmos 334
+Success	Dong Fang Hong 1
+Success	Cosmos 335
+Success	Cosmos 336 to 343
+Success	Meteor n†­15
+Success	Cosmos 344
+Success	Cosmos 345
+Failure	DS-P1-You #36
+Success	Soyuz 9
+Success	Cosmos 346
+Failure	STV-3
+Success	Cosmos 347
+Success	Cosmos 348
+Success	Cosmos 349
+Success	AFP-720 (Rhyolite-1)
+Success	Meteor n†­16
+Success	OPS 6820
+Success	Molniya-1 n†­21
+Success	Cosmos 350
+Success	Cosmos 351
+Failure	Strela-2M satellite
+Success	Cosmos 352
+Success	Cosmos 353
+Failure	Zenit-4 n†­75
+Success	Cosmos 354
+Success	BOR-2 Shuttle
+Success	Intercosmos-3
+Success	Cosmos 355
+Success	Cosmos 356
+Success	Venera 7
+Success	OPS 7874
+Success	Cosmos 357
+Partial Failure	Cosmos 358
+Partial Failure	Cosmos 359
+Success	Cosmos 360
+Success	AFP-827 (Canyon-3)
+Success	Cosmos 361
+Success	Luna-16
+Success	Cosmos 362
+Success	Cosmos 363
+Failure	Shinsei
+Success	Cosmos 364
+Success	Cosmos 365
+Success	Molniya-1 n†­19
+Success	Cosmos 366
+Success	Cosmos 367
+Success	Cosmos 368
+Success	Cosmos 369
+Success	Cosmos 370
+Success	Cosmos 371
+Success	Intercosmos-4
+Success	Meteor n†­17
+Success	Cosmos 372
+Success	Cosmos 373
+Success	Zond-8
+Success	Cosmos 374
+Success	OPS 7568
+Success	Cosmos 375
+Success	Cosmos 376
+Failure	Orba
+Partial Failure	OPS-5960 (IMEWS-1/DSP-1)
+Success	Luna-17
+Success	Cosmos 377
+Success	Cosmos 378
+Success	Cosmos 379 (T2K Lunar Lander)
+Success	Cosmos 380
+Success	Molniya-1 n†­23
+Failure	OAO-B
+Success	Cosmos 381
+Success	Cosmos 382 (L1E)
+Success	Cosmos 383
+Success	Cosmos 384
+Success	Explorer 42
+Success	P??ole
+Success	Cosmos 385
+Success	Cosmos 386
+Success	Cosmos 387
+Success	Cosmos 388
+Success	Cosmos 389
+Failure	DS-P1-M #1
+Success	Molniya-1 n†­22
+Success	Cosmos 390
+Success	Cosmos 391
+Success	Meteor n†­18
+Success	Cosmos 392
+Success	OPS 7776
+Success	Intelsat 4 F2
+Success	Cosmos 393
+Success	Apollo 14
+Success	Cosmos 394
+Success	Tansei 1
+Success	Cosmos 395
+Success	Cosmos 396
+Success	Hakucho
+Success	Cosmos 397
+Success	Cosmos 398 (T2K Lunar Lander)
+Success	Cosmos 399
+Success	Shijian 1
+Success	Cosmos 404
+Failure	Zenit-2M n†­17
+Failure	DS-P1-You #39
+Success	Cosmos 400
+Success	Jumpseat 1
+Success	Cosmos 407
+Success	Cosmos 401
+Success	Cosmos 402
+Success	Cosmos 403
+Success	Cosmos 405
+Success	Cosmos 406
+Success	Tournesol
+Success	Meteor n†­19
+Success	Saliout-1
+Success	BOR-2 Shuttle
+Success	OPS 7899
+Success	Soyuz 10
+Success	San Marco 3
+Success	Cosmos 408
+Success	Cosmos 409
+Success	DSP-2
+Success	Cosmos 410
+Success	Cosmos 411 to 418
+Failure	Mariner 8
+Success	Cosmos 419
+Success	Cosmos 420
+Success	Cosmos 421
+Success	Mars-2
+Success	Cosmos 422
+Success	Cosmos 423
+Success	Cosmos 424
+Success	Mars-3
+Success	Cosmos 425
+Success	Mariner 9
+Success	Cosmos 426
+Success	Soyuz 11
+Success	Cosmos 427
+Success	Cosmos 434 (T2K Lunar Lander)
+Success	KH-9
+Success	Cosmos 428
+Failure	Zenit-4M n†­17
+Failure	6L (Test flight)
+Success	Meteor n†­20
+Success	Cosmos 429
+Failure	Tselina-OM #10
+Success	Cosmos 430
+Success	Apollo 15
+Success	Molniya-1 n†­20
+Success	Cosmos 512
+Success	Cosmos 431
+Failure	DS-P1-You #33
+Success	Cosmos 432
+Success	OV1-20 OV1-21
+Success	Cosmos 433
+Success	OPS 8607
+Failure	Zenit-2M n†­22
+Success	Cosmos 435
+Success	Luna-18
+Success	Cosmos 436
+Success	Cosmos 437
+Success	Cosmos 438
+Success	Cosmos 439
+Success	Cosmos 440
+Success	Shinsei
+Success	Cosmos 441
+Success	Luna-19
+Success	Cosmos 442
+Success	Cosmos 443
+Success	Cosmos 444 to 451
+Success	Cosmos 452
+Success	Cosmos 453
+Success	OPS 7616
+Success	Prospero
+Success	Cosmos 454
+Success	DSCS-II 1&2
+Failure	Test flight
+Success	Explorer 45
+Success	Cosmos 455
+Partial Failure	Cosmos 456
+Success	Cosmos 457
+Success	Molniya-2 n†­24
+Success	Cosmos 458
+Success	Cosmos 459
+Success	Cosmos 460
+Success	Intercosmos-5
+Success	Cosmos 461
+Failure	Zenit-2M n†­25
+Success	Cosmos 462
+Failure	AFP-827 (Canyon-4)
+Failure	Polaire
+Success	Cosmos 463
+Success	Cosmos 464
+Success	Cosmos 465
+Success	Cosmos 466
+Success	Cosmos 467
+Success	Cosmos 468
+Success	Molniya-1 n†­25
+Success	Intelsat 4 F3
+Success	Cosmos 469
+Partial Failure	Cosmos 470
+Success	Oreol
+Success	Meteor n†­21
+Success	Cosmos 471
+Success	KH-9 & SSF-B-22
+Success	Intelsat 4 F4
+Success	Cosmos 472
+Success	Cosmos 473
+Success	BOR-2 Shuttle
+Success	Luna-20
+Success	Cosmos 474
+Failure	Jumpseat 2
+Success	Cosmos 475
+Success	DSP-3
+Success	Cosmos 476
+Success	Pioneer 10
+Success	Cosmos 477
+Success	Cosmos 478
+Success	OPS 1678
+Success	Cosmos 479
+Success	Cosmos 480
+Success	Cosmos 481
+Success	Venera 8
+Success	Meteor n†­22
+Partial Failure	Cosmos 482
+Success	Cosmos 483
+Success	Molniya-1 n†­26 & SRET-1
+Success	Cosmos 484
+Success	Intercosmos-6
+Success	Cosmos 485
+Success	Prognoz n†­1
+Success	Cosmos 486
+Success	Apollo 16
+Success	Cosmos 487
+Failure	DS-P1-You #51
+Success	Cosmos 488
+Success	Cosmos 489
+Success	Cosmos 490
+Success	Molniya-2 n†­27
+Failure	OPS 6574
+Success	Cosmos 491
+Success	Cosmos 492
+Success	Intelsat 4 F5
+Success	Cosmos 493
+Success	Cosmos 494
+Success	Cosmos 495
+Success	Prognoz n†­2
+Success	Cosmos 497
+Success	Meteor n†­23
+Success	Cosmos 496
+Success	Cosmos 498
+Success	Cosmos 499
+Success	KH-9 & SSF-B-23
+Success	Cosmos 500
+Success	Cosmos 501
+Partial Failure	Cosmos 502
+Success	Cosmos 503
+Success	Cosmos 504 to 511
+Failure	DOS-2
+Success	Cosmos 513
+Success	Shiyan Peizhong
+Success	Cosmos 514
+Success	Cosmos 515
+Success	Denpa
+Success	OAO-3
+Success	Cosmos 516
+Success	Intercosmos-7
+Success	Cosmos 517
+Success	OPS 8888
+Failure	Zenit-4M n†­40
+Success	Cosmos 518
+Success	Cosmos 519
+Success	Cosmos 520
+Success	Cosmos 521
+Success	Molniya-2 n†­28
+Success	P72-1
+Success	Cosmos 522
+Success	Cosmos 523
+Success	KH-9 & SSF-C-3
+Success	Cosmos 524
+Success	Molniya-1 n†­29
+Failure	Strela-2M satellite
+Success	Cosmos 525
+Success	Cosmos 526
+Success	Meteor n†­24
+Success	Cosmos 527
+Success	Cosmos 528 to 535
+Success	Cosmos 536
+Success	Explorer 48
+Failure	7L (Soyuz 7K-LOK No.1)
+Success	Cosmos 537
+Success	Intercosmos-8
+Success	Molniya-1 n†­30
+Success	Molniya-2 n†­31
+Success	Cosmos 538
+Success	Apollo 17
+Success	AFP-827 (Canyon-5)
+Success	Cosmos 539
+Success	OPS 3978
+Success	Cosmos 540
+Success	Cosmos 541
+Partial Failure	Cosmos 542
+Success	Cosmos 543
+Success	Cosmos 544
+Success	Cosmos 545
+Success	Cosmos 546
+Success	Cosmos 547
+Success	Molniya-1 n†­32
+Success	Cosmos 548
+Success	Prognoz n†­3
+Success	Cosmos 549
+Success	Cosmos 550
+Success	Cosmos 551
+Success	AFP-720 (Rhyolite-2)
+Success	KH-9
+Success	Meteor n†­25
+Success	Cosmos 552
+Success	Saliout-2
+Success	Molniya-2 n†­33
+Success	Pioneer 11
+Success	Cosmos 553
+Success	Cosmos 554
+Success	Intercosmos-9
+Failure	Cosmos 556
+Success	Cosmos 555
+Success	Cosmos 554
+Success	Skylab 1
+Success	OPS 2093
+Success	Cosmos 558
+Success	Cosmos 559
+Failure	Castor & Pollux
+Success	Cosmos 560
+Success	BOR-3 Shuttle
+Failure	Zaliv #17
+Success	Skylab 2
+Success	Cosmos 561
+Success	Meteor n†­26
+Success	Cosmos 562
+Success	Cosmos 563
+Success	Cosmos 564 to 571
+Success	Cosmos 572
+Success	DSP-4
+Success	Cosmos 573
+Success	Cosmos 574
+Success	Cosmos 575
+Failure	Tselina-OM #20
+Failure	OPS 4018
+Success	Cosmos 576
+Failure	Zenit-4M n†­50
+Success	Molniya-2 n†­34
+Success	KH-9
+Success	Cosmos 577
+Success	Skylab 3
+Success	Cosmos 578
+Success	Cosmos 579
+Success	Jumpseat 3
+Success	Cosmos 580
+Success	Intelsat 4 F7
+Success	Cosmos 581
+Success	Cosmos 582
+Success	Molniya-1 n†­35
+Success	Cosmos 583
+Success	Cosmos 584
+Success	Cosmos 585
+Success	Cosmos 586
+Failure	JSSW-1
+Success	Cosmos 587
+Success	Soyuz 12
+Success	OPS 6275
+Success	Cosmos 588 to 595
+Success	Cosmos 596
+Success	Cosmos 597
+Success	Cosmos 598
+Success	Cosmos 599
+Success	Cosmos 600
+Success	Cosmos 601
+Success	Molniya-2 n†­36
+Success	Cosmos 602
+Success	Cosmos 603
+Success	Cosmos 604
+Success	Intercosmos-10
+Success	Cosmos 605
+Success	Cosmos 606
+Success	Mariner 10
+Success	Cosmos 607
+Success	"KH-9, SSF-B-24 & SSF-C-4"
+Success	Molniya-1 n†­37
+Success	Skylab 4
+Success	Cosmos 608
+Success	Cosmos 609
+Success	Cosmos 610
+Success	Cosmos 611
+Success	Cosmos 612
+Success	Molniya-1 n†­38
+Success	Cosmos 614
+Success	Cosmos 615
+Success	DSCS-II 3&4
+Success	Cosmos 616
+Success	Soyuz 13
+Success	Cosmos 617 to 624
+Success	Cosmos 625
+Success	Molniya-2 n†­39
+Success	Oreol-2
+Success	Cosmos 626
+Success	Cosmos 627
+Success	Cosmos 628
+Success	Cosmos 629
+Success	Cosmos 613
+Success	Cosmos 630
+Success	Tansei 2
+Success	Cosmos 631
+Failure	Sphinx & Viking-DS
+Success	Cosmos 632
+Success	OPS 6889
+Success	San Marco 4
+Success	Cosmos 633
+Success	Meteor n†­27
+Success	Cosmos 634
+Success	Cosmos 635
+Success	Cosmos 636
+Success	Cosmos 641 to 648
+Success	Cosmos 637
+Success	Cosmos 638
+Success	Cosmos 639
+Success	"KH-9, SSF-B-25, IRCB"
+Success	Cosmos 640
+Failure	Zenit-4MK n†­23
+Success	Molniya-1 n†­40
+Success	Meteor n†­28
+Success	Molniya-2 n†­41
+Success	Cosmos 649
+Success	Cosmos 650
+Success	Cosmos 651
+Success	Cosmos 652
+Success	Cosmos 653
+Success	Cosmos 654
+Success	Intercosmos-11
+Success	Cosmos 655
+Failure	Yantar-2K n†­01
+Success	Cosmos 656
+Success	Luna-22
+Success	Cosmos 657
+Success	ATS-6
+Success	Cosmos 658
+Success	OPS 1776
+Success	Cosmos 659
+Success	Cosmos 660
+Success	Cosmos 661
+Success	Cosmos 662
+Success	Cosmos 663
+Success	Cosmos 664
+Success	Cosmos 665
+Success	Soyuz 14
+Success	Meteor-Priroda n†­1
+Success	BOR-3 Shuttle
+Failure	DS-P1-You n†­68
+Success	Cosmos 666
+Failure	JSSW-2
+Success	P73-3
+Success	Molniya-2 n†­42
+Success	Cosmos 667
+Success	Cosmos 668
+Success	Cosmos 669
+Success	Cosmos 670
+Success	Cosmos 671
+Success	Cosmos 672
+Success	OPS 3004
+Success	Cosmos 673
+Success	Soyuz 15
+Success	Cosmos 674
+Success	Cosmos 675
+Failure	Zenit-2M n†­51
+Success	Cosmos 676
+Success	Cosmos 677 to 684
+Success	Cosmos 685
+Success	Cosmos 686
+Success	Cosmos 687
+Success	Ariel 5
+Success	Cosmos 688
+Success	Cosmos 689
+Success	Cosmos 690
+Success	Molniya-1 n†­44
+Success	Cosmos 691
+Success	Meteor n†­29
+Success	"KH-9, S3 & SSF-B-26"
+Success	Intercosmos-12
+Success	Cosmos 692
+Success	Cosmos 693
+Failure	FSW-0 No.0
+Success	Cosmos 694
+Success	Cosmos 695
+Success	Molniya-3 n†­45
+Success	Intelsat 4 F8
+Success	Cosmos 696
+Success	Soyuz 16
+Success	Helios-1
+Partial Failure	Cosmos 697
+Success	Meteor n†­30
+Success	Cosmos 698
+Success	Molniya-2 n†­46
+Success	Cosmos 699
+Success	Cosmos 700
+Success	Cosmos 701
+Success	Soyuz 17
+Success	Cosmos 702
+Success	Cosmos 703
+Success	Cosmos 704
+Success	Cosmos 705
+Success	Cosmos 706
+Success	Cosmos 707
+Success	Molniya-2 n†­47
+Success	Starlette
+Success	Cosmos 708
+Success	Cosmos 709
+Failure	Intelsat 4 F6
+Success	Taiyo
+Success	Cosmos 710
+Success	Cosmos 711 to 718
+Success	Jumpseat 4
+Success	Cosmos 719
+Success	Cosmos 720
+Success	Cosmos 721
+Success	Cosmos 722
+Success	Intercosmos-13
+Success	Meteor n†­31
+Success	Cosmos 723
+Failure	Soyuz 18a (7K-T n†­39)
+Success	Cosmos 724
+Success	Cosmos 725
+Success	Cosmos 726
+Failure	P72-2
+Success	Molniya-3 n†­48
+Success	Cosmos 727
+Success	Cosmos 728
+Success	OPS 4883
+Success	Aryabhata
+Success	Cosmos 729
+Success	Cosmos 730
+Success	Molniya-1 n†­49
+Success	Explorer 53
+Success	Castor & Pollux
+Failure	DSCS-II 5&6
+Success	Cosmos 731
+Success	Intelsat 4 F1
+Success	Soyuz 18
+Success	Cosmos 1012
+Success	Cosmos 732 to 739
+Success	Cosmos 740
+Success	Cosmos 741
+Failure	DS-U3 satellite
+Success	Cosmos 742
+Success	Molniya-1 n†­50 & SRET-2
+Success	KH-9 & SSF-C-5
+Success	Cosmos 743
+Success	AFP-827 (Canyon-6)
+Success	Cosmos 744
+Success	Cosmos 745
+Success	Cosmos 746
+Success	Cosmos 747
+Success	Cosmos 748
+Success	Cosmos 749
+Success	Molniya-2 n†­51
+Success	Meteor-2 n†­1
+Success	Soyuz 19 (Apollo-Soyuz)
+Success	ASTP (Apollo???Soyuz Test Project)
+Success	Cosmos 750
+Success	Cosmos 751
+Success	Cosmos 752
+Success	JSSW-3
+Success	Cosmos 753
+Success	Cosmos 754
+Success	Cosmos 755
+Success	Viking 1
+Success	Cosmos 756
+Success	Cosmos 757
+Success	Molniya-1 n†­52
+Success	Cosmos 758
+Success	Molniya-2 n†­53
+Success	Kiku 1
+Success	Viking 2
+Success	Cosmos 759
+Success	Cosmos 760
+Success	Cosmos 761 to 768
+Success	Meteor n†­32
+Success	Cosmos 769
+Success	Cosmos 770
+Success	Cosmos 771
+Success	Intelsat 4A F1
+Success	Aura
+Success	Cosmos 772
+Success	Cosmos 773
+Success	Cosmos 774
+Success	OPS 5499
+Success	Cosmos 776
+Success	Cosmos 777
+Success	Cosmos 779
+Success	Molniya-3 n†­54
+Success	Cosmos 778
+Success	FSW-0 No.1
+Success	Soyuz 20
+Success	Cosmos 780
+Success	Cosmos 781
+Success	Cosmos 782
+Success	Cosmos 783
+Success	Cosmos 784
+Success	KH-9 & S3
+Success	Intercosmos-14
+Success	Cosmos 785
+Success	DSP-5
+Success	JSSW-4
+Success	Cosmos 786
+Success	Molniya-2 n†­55
+Failure	DS-P1 satellite
+Success	Prognoz n†­4
+Success	Meteor n†­33
+Success	Molniya-3 n†­56
+Success	Cosmos 787
+Success	Cosmos 788
+Success	Helios-2
+Success	Cosmos 789
+Success	Molniya-1 n†­57
+Success	Cosmos 790
+Success	Cosmos 791 to 798
+Success	Cosmos 799
+Success	Intelsat 4A F2
+Success	Cosmos 800
+Failure	Corsa A
+Success	Cosmos 801
+Success	Cosmos 802
+Success	Cosmos 803
+Success	Cosmos 804
+Success	Cosmos 805
+Success	Ume 1
+Success	Cosmos 806
+Success	Molniya-1 n†­58
+Success	Cosmos 807
+Success	Cosmos 814
+Success	"LES-8, LES-9, Solrad-11a, Solrad-11b"
+Success	Cosmos 808
+Success	Cosmos 809
+Success	Molniya-1 n†­59
+Success	OPS 7600
+Success	Cosmos 810
+Success	Cosmos 811
+Success	Cosmos 812
+Success	Meteor n†­34
+Success	Cosmos 813
+Success	Cosmos 815
+Success	Cosmos 816
+Success	NOSS-1
+Success	Cosmos 817
+Success	Cosmos 822
+Success	Molniya-3 n†­60
+Success	Comstar D1
+Success	Meteor n†­35
+Success	Cosmos 818
+Success	Cosmos 819
+Success	Cosmos 820
+Success	Cosmos 821
+Success	Cosmos 823
+Success	Quasar 1
+Success	Cosmos 824
+Success	Cosmos 825 to 832
+Success	Cosmos 833
+Success	Intercosmos-15
+Success	Cosmos 834
+Success	DSP-6
+Success	Cosmos 835
+Success	Cosmos 836
+Partial Failure	Cosmos 837
+Success	Cosmos 838
+Success	Soyuz 21
+Success	"KH-9, S3 & SSF-D-1"
+Success	Cosmos 839
+Success	Cosmos 840
+Success	Cosmos 841
+Success	Cosmos 842
+Success	Cosmos 843
+Success	Cosmos 844
+Success	Comstar D2
+Success	Molniya-1 n†­62
+Success	Cosmos 845
+Success	Intercosmos-16
+Success	Cosmos 846
+Success	Cosmos 847
+Success	Quasar 2
+Success	Cosmos 848
+Success	Cosmos 849
+Success	Cosmos 850
+Success	Cosmos 851
+Success	Cosmos 852
+Success	JSSW-5
+Partial Failure	Cosmos 853
+Success	Cosmos 854
+Success	Soyuz 22
+Success	OPS 8533
+Success	Cosmos 855
+Success	Cosmos 856
+Success	Cosmos 857
+Success	Cosmos 858
+Failure	Zenit-4MKT n†­370
+Success	Cosmos 859
+Success	Soyuz 23
+Success	Meteor n†­36
+Success	Cosmos 860
+Success	Cosmos 861
+Success	Cosmos 862
+Success	Cosmos 863
+Success	Cosmos 864
+Success	Cosmos 865
+Failure	JSSW-6
+Success	Cosmos 866
+Success	Cosmos 867
+Success	Prognoz n†­5
+Success	Cosmos 868
+Success	Cosmos 869
+Success	Cosmos 870
+Success	Molniya-2 n†­64
+Success	FSW-0 No.2
+Success	Cosmos 879
+Success	Cosmos 880
+Success	Cosmos 883
+Success	Cosmos 871 to 878
+Success	Cosmos 884
+Success	Cosmos 885
+Success	KH-11
+Success	Cosmos 886
+Success	Molniya-3 n†­65
+Success	Cosmos 887
+Success	Cosmos 888
+Success	Meteor-2 n†­2
+Success	Cosmos 889
+Success	Cosmos 890
+Success	Cosmos 891
+Success	DSP-7
+Success	Soyuz 24
+Success	Cosmos 892
+Success	Molniya-2 n†­66
+Success	Cosmos 893
+Success	Tansei 3
+Success	Cosmos 894
+Failure	Zenit-4MK n†­381
+Success	Kiku 2
+Success	Cosmos 895
+Success	Cosmos 896
+Success	Cosmos 897
+Success	OPS 4915
+Success	Cosmos 898
+Success	Molniya-1 n†­67
+Success	Cosmos 899
+Success	Cosmos 900
+Success	Meteor n†­37
+Success	Cosmos 901
+Success	Cosmos 902
+Success	Cosmos 903
+Success	Cosmos 904
+Success	Cosmos 905
+Success	Cosmos 906
+Success	Molniya-3 n†­68
+Success	Cosmos 907
+Success	DSCS-II 7&8
+Success	Cosmos 908
+Success	Cosmos 909
+Success	Cosmos 910
+Success	AFP-827 (Canyon-7)
+Success	Cosmos 911
+Success	Cosmos 912
+Success	Intelsat 4A F4
+Success	Cosmos 913
+Success	Cosmos 914
+Success	Cosmos 915
+Success	Cosmos 916
+Success	Cosmos 917
+Success	Signe 3
+Success	Cosmos 918
+Success	Cosmos 919
+Success	Cosmos 920
+Success	NTS-2
+Success	Molniya-1 n†­69
+Success	Cosmos 921
+Success	KH-9
+Success	Meteor-Priroda n†­2
+Success	Cosmos 922
+Success	Cosmos 923
+Success	Cosmos 924
+Success	Cosmos 925
+Success	Cosmos 926
+Success	Cosmos 927
+Success	Cosmos 928
+Success	Cosmos 930
+Success	Cosmos 931
+Success	Cosmos 932
+Success	Cosmos 933
+Success	Cosmos 934
+Success	Cosmos 935
+Success	Cosmos 936
+Failure	Zenit-4MKM n†­399
+Success	HEAO-1
+Success	Voyager 2
+Success	Cosmos 937
+Success	Cosmos 938
+Success	Cosmos 939 to 946
+Success	Cosmos 947
+Success	Molniya-1 n†­70
+Success	Cosmos 948
+Success	Voyager 1
+Success	Cosmos 949
+Success	Cosmos 950
+Success	Cosmos 951
+Success	DDDS 1
+Success	Cosmos 952
+Success	Cosmos 953
+Success	Cosmos 954
+Success	Cosmos 955
+Success	Prognoz n†­6
+Success	OPS 7471
+Success	Cosmos 956
+Success	Intercosmos-17
+Failure	Intelsat 4A F5
+Success	Cosmos 957
+Success	Soyuz 25
+Success	Cosmos 958
+Success	Cosmos 959
+Success	Cosmos 960
+Success	Cosmos 961
+Success	Molniya-3 n†­71
+Success	Cosmos 962
+Success	Cosmos 963
+Failure	Tsikada n†­3
+Success	Cosmos 964
+Success	Cosmos 965
+Success	NOSS-2
+Success	Soyuz 26
+Success	OPS-4258 (Aquacade-3)
+Success	Cosmos 966
+Success	Cosmos 967
+Success	Meteor-2 n†­3
+Success	Cosmos 968
+Success	Cosmos 969
+Success	Cosmos 970
+Success	Cosmos 971
+Success	Cosmos 972
+Success	Cosmos 973
+Success	Cosmos 974
+Success	Intelsat 4A F3
+Success	Cosmos 975
+Success	Cosmos 976 to 983
+Success	Cosmos 984
+Success	Cosmos 985
+Success	Molniya-3 n†­72
+Success	Cosmos 986
+Success	FSW-0 No.3
+Success	Cosmos 987
+Success	Kyokko
+Success	Cosmos 988
+Success	FLTSATCOM-1
+Success	Cosmos 989
+Success	Ume 2
+Success	Cosmos 990
+Success	GPS-1
+Success	Jumpseat 5
+Success	Cosmos 991
+Success	Molniya-1 n†­73
+Success	Cosmos 992
+Success	Cosmos 993
+Success	Cosmos 994
+Success	KH-9 & SSF-D-2
+Success	Cosmos 995
+Failure	DSCS-II 9&10
+Success	Cosmos 996
+Success	Cosmos 999
+Success	Cosmos 1000
+Success	Intelsat 4A F6
+Success	Cosmos 1002
+Success	OPS-8790 (Aquacade-4)
+Success	DDDS 2
+Success	Cosmos 1003
+Success	Cosmos 1004
+Success	Cosmos 1005
+Success	Cosmos 1006
+Success	GPS-2
+Success	Cosmos 1007
+Success	Cosmos 1008
+Success	Cosmos 1009
+Success	Pioneer Venus Orbiter
+Success	Cosmos 1010
+Success	Cosmos 1011
+Success	Molniya-1 n†­74
+Success	Cosmos 1013 to 1020
+Success	Cosmos 1021
+Success	OPS-9454 (vortex)
+Success	Cosmos 1022
+Success	KH-11
+Success	Cosmos 1023
+Success	Seasat
+Success	Cosmos 1024
+Success	Cosmos 1025
+Success	Comstar D3
+Success	Molniya-1 n†­75
+Success	Cosmos 1027
+Success	Cosmos 1028
+Success	Quasar 3
+Success	Pioneer Venus Multiprobe
+Success	Molniya-1 n†­76
+Success	Cosmos 1029
+Success	Cosmos 1030
+Success	Cosmos 1031
+Success	Jikiken
+Success	Cosmos 1032
+Success	Cosmos 1033
+Success	Cosmos 1034 to 1041
+Success	Cosmos 1042
+Success	GPS-3
+Success	Cosmos 1043
+Success	Molniya-3 n†­77
+Success	Tiros-N
+Success	Cosmos 1044
+Success	Intercosmos-18 & Magion 1
+Success	Cosmos 1045 & Radio 1 and 2
+Success	Prognoz n†­7
+Success	Cosmos 1046
+Success	HEAO-2
+Success	Cosmos 1047
+Success	Cosmos 1048
+Success	Cosmos 1049
+Success	Cosmos 1050
+Success	Cosmos 1051 to 1058
+Success	Cosmos 1059
+Success	Cosmos 1060
+Success	GPS-4
+Success	DSCS-II 11&12
+Success	Cosmos 1061
+Success	Cosmos 1062
+Success	Cosmos 1063
+Partial Failure	Cosmos 1064
+Success	Cosmos 1065
+Success	Cosmos 1066
+Success	Cosmos 1067
+Partial Failure	Cosmos 1068
+Success	Cosmos 1069
+Success	Cosmos 1072
+Success	Molniya-3 n†­78
+Success	Meteor-Priroda n†­3
+Partial Failure	Ayame 1
+Success	Cosmos 1075
+Success	Cosmos 1076
+Success	Cosmos 1077
+Success	Solwind
+Success	Intercosmos-19
+Success	Meteor-2 n†­5
+Success	Cosmos 1081 to 1088
+Success	KH-9 & SSF-D-3
+Success	Cosmos 1089
+Success	Cosmos 1091
+Success	Cosmos 1092
+Success	Molniya-1 n†­79
+Success	Cosmos 1093
+Success	Cosmos 1094
+Success	Cosmos 1096
+Success	FLTSATCOM-2
+Success	OPS 7164
+Success	Cosmos 1104
+Success	Molniya-3 n†­80
+Success	Bhaskara-1
+Success	DSP-8
+Success	NOAA-A
+Success	Cosmos 1109
+Success	Cosmos 1110
+Success	Cosmos 1112
+Success	Cosmos 1114
+Success	Cosmos 1116
+Failure	Shijian 2A
+Success	Molniya-1 n†­81
+Failure	Rohini Technology Payload
+Success	Cosmos 1124
+Success	Cosmos 1125
+Success	HEAO-3
+Success	Cosmos 1130 to 1137
+Success	OPS-1948 (Vortex)
+Success	Cosmos 1140
+Success	Cosmos 1141
+Success	Molniya-1 n†­82
+Success	Cosmos 1143
+Success	Meteor-2 n†­6
+Success	Intercosmos 20
+Success	DSCS-II 13&14
+Success	Cosmos 1145
+Success	Cosmos 1146
+Success	CAT-1
+Success	Molniya-1 n†­83
+Success	Cosmos 1150
+Success	FLTSATCOM-3
+Success	Cosmos 1151
+Success	Cosmos 1153
+Success	Cosmos 1154
+Success	KH-11
+Success	GPS-5
+Success	Cosmos 1156 to 1163
+Partial Failure	Cosmos 1164
+Success	Tansei 4
+Success	Ayame 2
+Success	NOSS-3
+Success	Cosmos 1167
+Success	Cosmos 1168
+Success	Cosmos 1169
+Success	Cosmos 1171
+Success	Cosmos 1172
+Success	Cosmos 1174
+Partial Failure	Cosmos 1175
+Success	GPS-6
+Success	Cosmos 1176
+Success	Cosmos 1179
+Success	Cosmos 1181
+Failure	CAT-2 & Others
+Failure	NOAA-B
+Success	Cosmos 1184
+Success	Cosmos 1186
+Success	Cosmos 1188
+Success	Meteor-Priroda n†­4
+Success	KH-9)
+Success	Molniya-1 n†­85
+Success	Cosmos 1190
+Success	Cosmos 1191
+Success	Cosmos 1192 to 1199
+Success	Rohini RS-1
+Success	Molniya-3 n†­86
+Success	Cosmos 1204
+Success	Cosmos 1206
+Success	Meteor-2 n†­7
+Success	Cosmos 1215
+Success	Cosmos 1217
+Success	FLTSATCOM-4
+Success	Cosmos 1220
+Success	Molniya-1 n†­87
+Success	Cosmos 1222
+Success	Cosmos 1223
+Success	Cosmos 1225
+Success	BOR-4 Shuttle
+Success	Intelsat V -502
+Failure	NOSS-4
+Success	Cosmos 1226
+Success	Quasar 4
+Partial Failure	Cosmos 1228 to 1235
+Success	Prognoz n†­8
+Success	Molniya-3 n†­88
+Success	Cosmos 1238
+Success	Cosmos 1241
+Failure	Cosmos 1242
+Success	Cosmos 1242
+Success	Molniya-1 n†­89
+Success	Cosmos 1243
+Success	Intercosmos 21
+Success	Kiku 3
+Success	Cosmos 1244
+Success	Cosmos 1247
+Success	Hinotori
+Success	Comstar D4
+Success	OPS 1166
+Success	Cosmos 1249
+Success	Cosmos 1250 to 1257
+Success	Cosmos 1258
+Success	DSP-9
+Success	Cosmos 1260
+Success	Cosmos 1266
+Success	Molniya-3 n†­90
+Success	Cosmos 1261
+Success	Cosmos 1263
+Success	STS-1
+Success	Jumpseat 6
+Success	Cosmos 1269
+Success	Meteor-2 n†­8
+Success	Cosmos 1271
+Success	Intelsat V -501
+Partial Failure	Rohini RS-D1
+Success	Cosmos 1275
+Success	Molniya-3 n†­91
+Success	CAT-3 & Others
+Success	Cosmos 1278
+Success	NOAA-C
+Success	Molniya-1 n†­92
+Success	Meteor-Priroda n†­5 & Iskra 1
+Success	Cosmos 1285
+Success	Cosmos 1286
+Partial Failure	FLTSATCOM-5
+Success	Cosmos 1287 to 1294
+Success	Intercosmos 22
+Success	Himawari 2
+Success	Cosmos 1295
+Success	Cosmos 1299
+Success	Cosmos 1300
+Success	Cosmos 1302
+Success	KH-11
+Partial Failure	Cosmos 1305
+Success	Cosmos 1306
+Success	Cosmos 1308
+Success	Shijian 2
+Success	Aureole 3
+Success	Cosmos 1310
+Success	Cosmos 1311
+Success	Cosmos 1312
+Success	Cosmos 1315
+Success	Molniya-3 n†­94
+Success	OPS-4029 (Vortex)
+Success	Cosmos 1317
+Success	STS-2
+Success	Molniya-1 n†­95
+Success	Bhaskara-2
+Success	Cosmos 1320 to 1327
+Success	Cosmos 1328
+Partial Failure	Cosmos 1304
+Success	Intelsat V -503
+Success	Radio-Sputnik 3 to 8
+Failure	GPS-7
+Success	MARCES-1 & CAT-4
+Success	Molniya-1 n†­96
+Success	Cosmos 1331
+Success	Cosmos 1333
+Success	OPS 2849
+Success	Cosmos 1335
+Success	Cosmos 1337
+Success	Cosmos 1339
+Success	Cosmos 1340
+Success	Molniya-1 n†­97
+Success	Cosmos 1341
+Failure	Ta??foun n†­27
+Success	Intelsat V -504
+Success	DSP-10
+Success	STS-3
+Success	Molniya-3 n†­98
+Success	Cosmos 1344
+Success	Meteor-2 n†­8
+Success	Cosmos 1345
+Success	Cosmos 1346
+Success	Cosmos 1348
+Success	Cosmos 1349
+Success	Cosmos 1351
+Success	Cosmos 1354
+Success	Cosmos 1355
+Success	Cosmos 1356
+Success	Cosmos 1357 to 1364
+Success	KH-9 & SSF-D-4
+Success	Cosmos 1365
+Success	Cosmos 1367
+Success	Molniya-1 n†­99
+Success	Cosmos 1371
+Success	Cosmos 1372
+Success	Cosmos 1374 (BOR-4 Space Shuttle)
+Success	Cosmos 1375
+Success	Cosmos 1378
+Success	Cosmos 1379
+Partial Failure	Cosmos 1380
+Success	Cosmos 1382
+Success	STS-4
+Success	Cosmos 1383
+Success	Cosmos 1386
+Success	Cosmos 1388 to 1395
+Success	Molniya-1 n†­100
+Success	Cosmos 1397
+Success	Cosmos 1412
+Success	Cosmos 1400
+Success	Molniya-3 n†­101
+Success	Cosmos 1402
+Success	Strela-2M satellite
+Success	Kiku 4
+Success	Cosmos 1405
+Failure	MARCES-B & Sirio-2
+Success	FSW-0 No.4
+Success	Cosmos 1408
+Success	Cosmos 1409
+Success	Cosmos 1410
+Success	Intelsat V -505
+Success	Cosmos 1417
+Success	Cosmos 1418
+Success	DSCS-II-15 + DSCS-III-A1
+Success	Cosmos 1420
+Success	STS-5
+Success	KH-11
+Failure	Strela-1M satellites
+Partial Failure	Cosmos 1423
+Success	Meteor-2 n†­10
+Success	DMSP 5D-2/F6
+Success	Cosmos 1427
+Success	Cosmos 1428
+Success	Cosmos 1429 to 1436
+Success	Cosmos 1437
+Failure	Ta??foun n†­32
+Success	Sakura 2a
+Success	NOSS-5
+Success	Cosmos 1441
+Success	Tenma
+Success	Molniya-3 n†­103
+Success	Cosmos 1445 (BOR-4 Space Shuttle)
+Success	Molniya-1 n†­104
+Success	Cosmos 1447
+Success	NOAA-E
+Success	Cosmos 1448
+Success	Molniya-1 n†­105
+Success	STS-6
+Success	Cosmos 1450
+Success	Cosmos 1452
+Success	Rohini RS-D2
+Success	OPS 2925
+Success	Cosmos 1453
+Success	Cosmos 1455
+Success	Cosmos 1456
+Success	BOR-5 Shuttle
+Success	Cosmos 1459
+Success	Cosmos 1461
+Success	Cosmos 1463
+Success	Intelsat V -506
+Success	Cosmos 1464
+Success	Cosmos 1465
+Success	NOSS-6
+Success	ECS 1 & Oscar-10
+Success	STS-7
+Success	OPS-0721 (KH-9)
+Success	Cosmos 1470
+Success	Prognoz n†­9
+Success	Cosmos 1473 to 1480
+Success	Cosmos 1481
+Success	GPS-8
+Success	Molniya-1 n†­106
+Success	Cosmos 1484
+Success	Jumpseat 7
+Success	Cosmos 1486
+Success	Sakura 2b
+Success	FSW-0 No.5
+Success	Molniya-3 n†­107
+Success	Cosmos 1494
+Success	STS-8
+Success	Cosmos 1500
+Success	Cosmos 1501
+Success	Cosmos 1502
+Success	Cosmos 1503
+Success	Intelsat 507
+Success	Cosmos 1506
+Success	Meteor-2 n†­11
+Success	Cosmos 1507
+Success	Cosmos 1508
+Success	DMSP 5D-2/F7
+Success	Molniya-1 n†­108
+Success	Cosmos 1510
+Success	STS-9
+Success	Cosmos 1513
+Success	Cosmos 1515
+Success	Molniya-3 n†­109
+Success	Cosmos 1517 (BOR-4 Space Shuttle)
+Success	Cosmos 1518
+Success	Cosmos 1522 to 1529
+Success	Cosmos 1531
+Success	Yuri 2a
+Success	Cosmos 1534
+Partial Failure	STTW 1 (Dong Fang Hong 2)
+Success	OPS-0441 (Vortex)
+Success	Cosmos 1535
+Success	STS-41-B
+Success	NOSS-7
+Success	Cosmos 1536
+Success	Ohzora
+Success	Cosmos 1538
+Success	Intelsat 508
+Success	Cosmos 1541
+Success	Cosmos 1544
+Success	Molniya-1 n†­110
+Success	Cosmos 1547
+Success	STS-41-C
+Success	STTW 2 (Dong Fang Hong 2)
+Success	DSP-11
+Success	OPS 8424
+Success	BOR-4 Shuttle
+Success	Cosmos 1550
+Success	Cosmos 1553
+Success	Spacenet F1
+Success	Cosmos 1559 to 1566
+Success	Cosmos 1567
+Success	Cosmos 1569
+Success	BOR-5 Shuttle
+Success	Cosmos 1570
+Failure	Intelsat V -509
+Success	GPS-9
+Success	Cosmos 1574
+Success	USA-2 (KH-9)
+Success	Cosmos 1577
+Success	Cosmos 1578
+Success	Cosmos 1581
+Success	Meteor-2 n†­11
+Success	Cosmos 1586
+Success	Himawari 3
+Success	"Eutelsat-1 F2, Telecom 1A"
+Success	Cosmos 1588
+Success	Cosmos 1589
+Success	Molniya-1 n†­111
+Success	Molniya-1 n†­112
+Success	Quasar 5
+Success	Cosmos 1579
+Success	STS-41-D
+Success	Cosmos 1596
+Success	GPS-10
+Success	FSW-0 No.6
+Success	Cosmos 1598
+Success	Cosmos 1601
+Success	Cosmos 1602
+Success	Cosmos 1604
+Success	STS-41-G
+Success	Cosmos 1605
+Success	Cosmos 1606
+Success	Cosmos 1607
+Success	STS-51-A
+Success	"Spacenet 2, MARECS-2"
+Success	Cosmos 1610
+Partial Failure	Meteor-3 n†­1a
+Success	USA-6 (KH-11)
+Success	NOAA-F
+Success	Molniya-1 n†­113
+Success	Cosmos 1614 (BOR-4 Space Shuttle)
+Success	Cosmos 1615
+Success	DSP-12
+Success	Cosmos 1617 to 1622
+Success	Cosmos 1624
+Success	Molniya-3 n†­114
+Success	Cosmos 1625
+Success	Cosmos 1626
+Success	STS-51-C
+Success	Cosmos 1627
+Success	Meteor-2 n†­12
+Success	Sakigake
+Success	"Arabsat-1A, Brasilsat-A1"
+Success	Quasar 6
+Success	Cosmos 1631
+Success	Cosmos 1633
+Success	Geosat
+Success	Cosmos 1634
+Success	Cosmos 1635 to 1642
+Success	Intelsat V -510
+Success	STS-51-D
+Failure	EPN 03.0694 n†­1
+Success	BOR-5 Shuttle
+Success	Cosmos 1646
+Success	Prognoz n†­10
+Success	STS-51-B
+Success	"GStar-1, Telecom 1B"
+Success	Molniya-3 n†­115
+Success	Cosmos 1655
+Success	Cosmos 1658
+Success	Cosmos 1675
+Success	Cosmos 1660
+Success	STS-51-G
+Success	Cosmos 1661
+Success	Cosmos 1662
+Failure	EPN 03.0694 n†­2
+Success	Intelsat V -511
+Success	Giotto
+Success	Cosmos 1666
+Success	Molniya-3 n†­116
+Success	STS-51-F
+Success	Cosmos 1670
+Success	Cosmos 1674
+Success	Suisei
+Success	Molniya-1 n†­117
+Success	Cosmos 1677
+Success	STS-51-I
+Failure	KH-11
+Success	Cosmos 1680
+Failure	"ECS 3, Spacenet 3"
+Success	Cosmos 1682
+Success	Cosmos 1684
+Success	Intelsat V -512
+Success	Cosmos 1687
+Success	Cosmos 1688
+Success	Cosmos 1689
+Success	Molniya-3 n†­118
+Success	STS-51-J
+Success	GPS-11
+Success	Cosmos 1690 to 1695
+Success	FSW-0 No.7
+Success	Cosmos 1697
+Success	Cosmos 1698
+Success	Molniya-1 n†­119
+Failure	Parouss n†­50
+Success	Meteor-3 n†­1
+Success	Molniya-1 n†­120
+Success	STS-61-A
+Success	Cosmos 1701
+Success	Cosmos 1703
+Success	STS-61-B
+Success	Cosmos 1704
+Success	Cosmos 1707
+Success	Cosmos 1709
+Success	Molniya-3 n†­121
+Success	Meteor-2 n†­13
+Partial Failure	Cosmos 1714
+Success	Cosmos 1716 to 1723
+Success	STS-61-C
+Success	Cosmos 1725
+Success	Cosmos 1726
+Success	Cosmos 1727
+Failure	STS-51-L
+Success	DFH-2A-T1
+Success	Cosmos 1729
+Success	NOSS-8
+Success	Cosmos 1732
+Success	Yuri 2b
+Success	Cosmos 1733
+Success	SPOT-1 & Viking
+Success	Cosmos 1735
+Success	Cosmos 1736
+Success	Cosmos 1737
+Success	"GStar-2, Brasilsat-A2"
+Success	Cosmos 1741
+Failure	KH-9
+Success	Molniya-3 n†­122
+Success	Cosmos 1743
+Success	Cosmos 1745
+Success	Meteor-2 n†­14
+Failure	Intelsat-5A 14
+Success	Cosmos 1748 to 1755
+Success	Cosmos 1758
+Success	Cosmos 1759
+Success	Molniya-3 n†­123
+Success	Cosmos 1761
+Partial Failure	Cosmos 1763
+Success	Cosmos 1766
+Success	Cosmos 1767
+Success	Molniya-1 n†­124
+Success	Cosmos 1769
+Success	"Fuji 1a, Jindai & Ajisai"
+Success	Cosmos 1771
+Success	Cosmos 1774
+Success	Cosmos 1776
+Success	Molniya-1 n†­125
+Success	Cosmos 1777
+Success	NOAA-G
+Success	Cosmos 1782
+Partial Failure	Cosmos 1783
+Success	FSW-0 No.8
+Failure	Cosmos 1786 to 1791
+Success	Cosmos 1785
+Success	Molniya-3 n†­126
+Success	Cosmos 1786 & EPN n†­3
+Success	Cosmos 1788
+Success	Cosmos 1791
+Success	Molniya-1 n†­127
+Success	Cosmos 1793
+Success	Cosmos 1794 to 1801
+Success	Cosmos 1802
+Success	Cosmos 1803
+Success	FLTSATCOM-7
+Success	Cosmos 1805
+Success	Cosmos 1806
+Success	Cosmos 1808
+Success	Cosmos 1809
+Success	BOR-5 Shuttle
+Success	Molniya-1 n†­128
+Success	Meteor-2 n†­15
+Success	Cosmos 1812
+Success	Cosmos 1814
+Success	Cosmos 1815
+Success	Molniya-3 n†­129
+Partial Failure	Cosmos 1816
+Success	Cosmos 1818
+Success	Ginga
+Success	Quasar 7
+Success	Cosmos 1820
+Success	Cosmos 1821
+Success	Momo 1a
+Success	Cosmos 1823
+Success	Cosmos 1825
+Success	Cosmos 1827 to 1832
+Success	Cosmos 1833
+Failure	SROSS-A
+Failure	FLTSATCOM-6
+Success	Cosmos 1834
+Success	Cosmos 1842
+Success	Cosmos 1844
+Success	NOSS-9
+Success	Polyus Space Station
+Success	Cosmos 1849
+Success	Cosmos 1850
+Success	Cosmos 1851
+Success	Cosmos 1852 to 1859
+Success	Cosmos 1860
+Success	DMSP 5D-2/F8
+Success	Cosmos 1861
+Success	Cosmos 1862
+Success	Cosmos 1864
+Success	Cosmos 1867
+Success	Cosmos 1868
+Success	Cosmos 1869
+Success	Cosmos 1871
+Success	FSW-0 No.9
+Success	Meteor-2 n†­16
+Success	Kiku 5
+Success	BOR-5 Shuttle
+Success	Cosmos 1873
+Success	Cosmos 1875 to 1880
+Success	FSW-1 No.1
+Success	"Aussat-A3, Eutelsat 1-F4"
+Success	Cosmos 1890
+Success	Cosmos 1891
+Success	Cosmos 1892
+Success	USA-27 (KH-11)
+Success	TVSAT-1
+Success	DSP-13
+Success	Cosmos 1898
+Success	Cosmos 1900
+Success	Cosmos 1902
+Success	BOR-4 Shuttle
+Success	Cosmos 1903
+Success	Cosmos 1904
+Success	Cosmos 1909 to 1914
+Success	Meteor-2 n†­17
+Success	DMSP 5D-2/F9
+Success	Sakura 3A
+Success	Cosmos 1922
+Success	DFH-2A-T2
+Success	Cosmos 1924 to 1931
+Success	Molniya-1 n†­130
+Success	"Spacenet 3R, Telecom 1C"
+Success	Cosmos 1932
+Success	Cosmos 1933
+Success	IRS-1A
+Success	Molniya-1 n†­131
+Success	Cosmos 1934
+Success	San Marco 5
+Success	Cosmos 1937
+Success	Cosmos 1939
+Success	Cosmos 1943
+Success	Intelsat 3AF13
+Success	Molniya-3 n†­132
+Success	Cosmos 1949
+Success	Cosmos 1950
+Success	Cosmos 1908
+Success	Cosmos 1953
+Success	"Meteosat 3, Panamsat-1, Oscar 13"
+Success	Cosmos 1954
+Success	BOR-5 Shuttle
+Success	Okean 1
+Success	Cosmos 1958
+Success	Cosmos 1959
+Success	"Insat 1C, Eutelsat-1 F5"
+Success	Meteor-3 n†­2
+Success	Cosmos 1960
+Failure	SROSS-B
+Success	FSW-1 No.2
+Success	Cosmos 1966
+Partial Failure	USA-31 (Vortex)
+Success	USA-32
+Success	Fengyun 1A
+Success	"GStar 5, SBS 5"
+Success	Sakura 3B
+Success	Ofek-1
+Success	NOAA-H
+Success	Molniya-3 n†­134
+Success	STS-26R
+Success	Cosmos 1974
+Success	Cosmos 1975
+Success	Cosmos 1977
+Success	TDF-1
+Success	USA-33 (KH-11)
+Success	Buran
+Success	Cosmos 1979
+Success	Cosmos 1980
+Success	STS-27R
+Success	"Skynet 4B, Astra 1A"
+Success	DFH-2A-T3
+Success	Molniya-3 n†­135
+Success	Cosmos 1985
+Success	Molniya-1 n†­136
+Success	Intelsat-5A 15
+Success	Cosmos 1994 to 1999
+Success	Cosmos 2001
+Success	NAVSTAR II-1 (USA 35)
+Success	Cosmos 2002
+Success	Molniya-1 n†­137
+Success	Akebono
+Success	Cosmos 2004
+Success	Cosmos 1992
+Success	Meteor-2 n†­18
+Success	JCSAT-1 & Meteosat 4
+Success	STS-29R
+Success	Cosmos 2008 to 2015
+Success	Delta Star (USA 36)
+Success	TELE-X
+Success	Cosmos 2016
+Success	STS-30R
+Success	USA-37 (Vortex)
+Partial Failure	SROSS C
+Success	"Superbird-A, DFS-1"
+Success	Cosmos 2026
+Success	Molniya-3 n†­138
+Failure	Okean 2a
+Success	NAVSTAR II-2
+Success	Cosmos 2027
+Success	DSP
+Success	Nadiezhda n†­4
+Success	Olympus-1
+Success	Cosmos 2033
+Success	Cosmos 2034
+Success	STS-28R
+Success	"TVSAT-2, Hipparcos"
+Success	NAVSTAR II-3
+Success	BSB-R1
+Success	Cosmos 2037
+Success	DSCS-II-16 & DSCS-III-A2
+Success	Himawari 4
+Success	USA-45
+Success	Cosmos 2038 to 2043
+Success	FLTSATCOM-8
+Success	Molniya-1 n†­139
+Success	Cosmos 2046
+Success	Intercosmos 24 & Magion 2
+Success	STS-34R
+Success	Meteor-3 n†­3
+Success	Intelsat 6AF2
+Success	STS-33R
+Success	Cosmos 2050
+Success	Cosmos 2051
+Success	Molniya-3 n†­140
+Success	NAVSTAR II-5
+Success	Cosmos 2053
+Success	Skynet 4A & JCSAT-2
+Success	STS-32
+Success	Cosmos 2056
+Success	"SPOT-2, Oscar 14-19"
+Success	Molniya-3 n†­141
+Success	Hiten
+Success	USA-50 (GPS II-6)
+Success	Cosmos 2058
+Success	USA-64 (GPS II-9)
+Success	DFH-2A-T4
+Success	Cosmos 2059
+Success	"Orizuru, Fuji 1b & Momo-1b"
+Success	MOS-1B / Oscar 20 / DEBUT
+Success	LACE / RME
+Failure	"Superbird-B, BS-2X"
+Success	Nadiezhda n†­5
+Success	Okean 2
+Success	STS-36
+Failure	Intelsat 603
+Success	Cosmos 2060
+Success	Cosmos 2061
+Success	USA-54 (GPS II-7)
+Success	Cosmos 2063
+Success	Ofek-2
+Success	Pegsat & NavySat
+Success	Cosmos 2064 to 2071
+Success	AsiaSat 1
+Success	USA-56/57/58
+Success	Palapa B2R
+Success	Cosmos 2074
+Success	STS-31
+Success	Cosmos 2075
+Success	Molniya-1 n†­142
+Success	Cosmos 2076
+Success	Cosmos 2082
+Success	ROSAT
+Success	SLDCOM & NOSS 3x
+Success	INSAT 1D
+Success	Molniya-3 n†­143
+Partial Failure	Cosmos 2084
+Success	Intelsat 604
+Success	Meteor-2 n†­19
+Success	"Optus-B, Badr-1, mass simulator"
+Success	"TDF-2, DFS-2"
+Success	Cosmos 2087
+Success	CRRES
+Success	Cosmos 2088
+Success	Cosmos 2090 to 2095
+Success	Molniya-1 n†­144
+Success	Cosmos 2096
+Success	Cosmos 2097
+Success	BS-3A
+Success	BS-3A (Yuri-3A)
+Success	Cosmos 2098
+Success	"Skynet 4C, Eutelsat 2F1"
+Success	Fengyun-1B
+Success	Cosmos 2100
+Success	Molniya-3 n†­145
+Success	Meteor-2 n†­20
+Success	USA-63 (GPS II-8)
+Failure	Tselina-2 n†­8
+Success	FSW-1 No.3
+Success	STS-41
+Success	"SBS-6, Galaxy-6"
+Success	Thor 1
+Success	Inmarsat-2 F1
+Success	DSP
+Success	Cosmos 2103
+Success	STS-38
+Success	Cosmos 2105
+Success	"Satcom C1, GStar-4"
+Success	GVM Demo Flight
+Success	Molniya-1 n†­146
+Success	USA-66 (GPS IIA-1)
+Success	Cosmos 2106
+Success	DMSP F-10
+Success	STS-35
+Success	Cosmos 2107
+Success	Cosmos 2112
+Success	Cosmos 2114 to 2119
+Success	NATO 4A
+Success	"Italsat-1, Eutelsat 2F2"
+Success	Cosmos 2122
+Success	Oscar-21
+Success	Cosmos 2123
+Success	Cosmos 2125 to 2132
+Success	Molniya-1 n†­147
+Success	Cosmos 2135
+Success	"Astra 1B, Meteosat 5"
+Success	Lacrosse
+Success	Inmarsat-2 F2
+Success	Nadiezhda n†­6
+Success	Cosmos 2137
+Success	Molniya-3 n†­148
+Success	Anik E2
+Success	STS-37
+Success	ASC-2 (Spacenet F4)
+Success	Cosmos 2142
+Failure	Yuri 3H
+Success	Meteor-3 n†­4
+Success	STS-39
+Success	NOAA-D
+Success	Cosmos 2143 to 2148
+Success	Aurora 2
+Success	Okean 3
+Success	STS-40
+Success	Cosmos 2150
+Success	Cosmos 2151
+Success	Molniya-1 n†­149
+Failure	Ta??foun n†­59
+Success	USA-71 (GPS IIA-2)
+Success	"ERS-1, Oscar 22, Orbcomm-X, Tubsat-A, SARA"
+Partial Failure	7 Microsats
+Success	Molniya-1 n†­150
+Success	STS-43
+Success	Intelsat 605
+Success	Meteor-3 n†­5
+Success	Cosmos 2154
+Success	BS-3B
+Success	BS-3B (Yuri-3B)
+Success	IRS-1B
+Success	Yohkoh
+Failure	Tselina-2 n†­9
+Success	STS-48
+Success	Molniya-3 n†­151
+Success	Anik E1
+Success	Cosmos 2157 to 2162
+Success	Cosmos 2164
+Success	Intelsat 6AF1
+Success	SLDCOM & NOSS 3x
+Success	Cosmos 2165 to 2170
+Success	STS-44
+Success	Cosmos 2173
+Success	DMSP F-11
+Success	Eutelsat 2F3
+Success	"Telecom 2A, Inmarsat 2F3"
+Success	Intercosmos 25 & Magion 3
+Success	GVM Demo Flight
+Partial Failure	DFH-2A-T5
+Success	STS-42
+Success	Cosmos 2176
+Failure	Tselina-2 n†­10
+Success	USA-78 (DSCS IIIB-14)
+Success	JERS 1
+Success	Cosmos 2180
+Success	"Superbird-B1, Arabsat-1C"
+Success	Molniya-1 n†­152
+Success	Cosmos 2181
+Success	Galaxy 5
+Success	USA-79 (GPS IIA-3)
+Success	STS-45
+Success	USA-80 (GPS IIA-4)
+Success	Cosmos 2184
+Success	"Telecom 2B, Inmarsat-2F4"
+Success	USA-81
+Success	STS-49
+Success	Palapa B4
+Success	Cosmos 2187 to 2194
+Success	EUVE
+Success	Intelsat K
+Success	STS-50
+Success	Cosmos 2195
+Success	USA-82 (DSCS IIIB-12)
+Success	USA-83 (GPS IIA-5)
+Success	Cosmos 2196
+Success	"Insat-2A, Eutelsat 2F4"
+Success	Cosmos 2197 to 2202
+Success	Satcom C4
+Success	GEOTAIL
+Success	STS-46
+Success	Molniya-1 n†­153
+Success	FSW-2 No.1
+Success	"TOPEX/Poseidon, Oscar 23, S80/T"
+Success	Cosmos 2208
+Success	Optus-B1
+Failure	Galaxy 1R
+Success	USA-84 (GPS IIA-6)
+Success	"Hispasat 1A, Satcom C3"
+Success	STS-47
+Success	Mars Observer
+Success	"FSW-1 No.4, Freja"
+Success	DFS Kopernikus 3
+Success	Molniya-3 n†­154
+Success	Cosmos 2211 to 2216
+Success	STS-52
+Success	Galaxy-7
+Success	Cosmos 2218
+Success	Cosmos 2219
+Success	Cosmos 2217
+Success	USA-85 (GPS IIA-7)
+Success	Cosmos 2221
+Success	Cosmos 2222
+Success	KH-11 Kennen
+Success	Superbird A1
+Success	Molniya-3 n†­155
+Success	STS-53
+Success	USA-87 (GPS IIA-8)
+Failure	Optus-B2
+Success	Cosmos 2226
+Success	Cosmos 2227
+Success	Cosmos 2228
+Success	Cosmos 2230
+Success	Molniya-1 n†­156
+Success	STS-54
+Success	Cosmos 2232
+Success	USA-88 (GPS IIA-9)
+Success	Cosmos 2233
+Success	SCD-1
+Success	Asuka
+Success	Cosmos 2242
+Success	EKA-1
+Failure	UHF F1
+Success	Cosmos 2237
+Success	USA-90 (GPS IIA-10)/SEDS-1
+Success	Cosmos 2238
+Success	Cosmos 2239
+Success	Cosmos 2241
+Success	STS-56
+Success	Cosmos 2340
+Success	Cosmos 2242
+Success	Molniya-3 n†­157
+Success	ALEXIS
+Success	STS-55
+Success	Cosmos 2244
+Success	Cosmos 2245 to 2250
+Success	"Astra 1C, Arsene"
+Success	USA-91 (GPS IIA-11)
+Success	Molniya-1 n†­158
+Success	Cosmos 2251
+Success	STS-57
+Success	Cosmos 2252 to 2257
+Success	Galaxy-4
+Success	USA-92 (GPS IIA-12)/PMG
+Success	Cosmos 2258
+Success	USA-93 (DSCS IIIB-9)
+Success	"Hispasat 1B, Insat-2B"
+Failure	SLDCOM & 3x NOSS
+Success	Molniya-3 n†­159
+Success	NOAA-I
+Success	Cosmos 2261
+Success	USA-94 (GPS IIA-13)
+Success	Meteor-2 n†­21 & Temisat
+Success	UHF F2
+Success	STS-51
+Success	Cosmos 2263
+Success	Cosmos 2264
+Failure	IRS-P1
+Success	"SPOT-3, Stella & Others"
+Failure	Landsat 6
+Success	FSW-1 No.5
+Success	STS-58
+Success	Intelsat 701
+Success	Cosmos 2265
+Success	USA-96 (GPS IIA-14)
+Success	Cosmos 2266
+Success	"Solidaridad 1, Meteosat 6"
+Success	USA-97 (DSCS IIIB-10
+Success	STS-61
+Success	NATO 4B
+Success	Telstar 401
+Success	"DBS-1, Thaicom-1"
+Success	Molniya-1T n†­160
+Failure	"Eutelsat 2F5, Turksat 1A"
+Success	Meteor-3 n†­6 & Tubsat-B
+Success	Clementine
+Success	STS-60
+Success	Ryusei & Myojo
+Success	Milstar DFS-1
+Success	"Shijian 4, Kuafu-1 (mass simulator)"
+Success	Cosmos 2268 to 2273
+Success	Koronas I
+Success	STS-62
+Success	USA-100 (GPS IIA-15)/SEDS-2
+Success	STEP Mission 0 & DARPASAT
+Success	Galaxy 1R
+Success	STS-59
+Success	GOES-I
+Success	Cosmos 2278
+Success	Cosmos 2279
+Success	Trumpet
+Success	SROSS C2
+Partial Failure	STEP-2
+Failure	Cosmos 2281
+Success	"Intelsat 702, STRV 1A & 1B"
+Success	UHF F3
+Failure	STEP-1
+Success	FSW-2 No.2
+Success	STS-65
+Success	"Panamsat-2, Yuri-3N"
+Success	Nadiezhda n†­7
+Success	Apstar-1
+Success	Cosmos 2285
+Success	DBS-2
+Success	Cosmos 2286
+Success	"Brasilsat B1, Turksat 1B"
+Success	Molniya-3 n†­161
+Success	Cosmos 2290
+Success	Mercury
+Success	Optus-B3
+Success	Kiku 6
+Success	DMSP F-12
+Success	APEX
+Success	Telstar 402
+Success	STS-64
+Success	Cosmos 2292
+Success	STS-68
+Success	Intelsat 703
+Success	"Solidaridad-2, Thaicom-2"
+Success	Okean 4
+Success	IRS-P2
+Success	Astra 1D
+Success	Wind
+Success	Cosmos 2293
+Success	STS-66
+Success	Resurs-O1 n†­3
+Success	Cosmos 2297
+Success	Geo-IK 1
+Success	Orion 1
+Partial Failure	Chinasat-5
+Failure	Panamsat-3
+Success	Molniya-1T n†­162
+Success	Cosmos 2298
+Success	DSP
+Success	Cosmos 2299 to 2304
+Success	Radio-ROSTO
+Success	NOAA-J
+Success	Intelsat 704
+Partial Failure	EXPRESS
+Success	"Tsikada 1, Faisat 1 & Astrid 1"
+Failure	Apstar 2
+Success	USA-108 (UHF F4)
+Success	STS-63
+Success	STS-67
+Success	Cosmos 2306
+Success	Himawari 5 & SFU 1
+Success	Cosmos 2310
+Success	Intelsat 705
+Success	DMSP F-13
+Failure	"EKA-2, Gurwin & UNAMSAT A"
+Success	"Brasilsat B2, Hot Bird 1"
+Success	Orbcomm F1 and F2 & OrbView-1
+Success	Ofek-3
+Success	AMSC-1
+Success	ERS-2
+Success	Mentor
+Success	Intelsat 706
+Success	GOES-J
+Success	Cosmos 2312
+Success	USA-111 (UHF F5)
+Success	Cosmos 2313
+Success	DBS-3
+Failure	STEP-3
+Success	STS-71
+Success	Cosmos 2315
+Success	"Helios 1A, Cerise, LBSAT-1"
+Success	Trumpet
+Success	STS-70
+Success	USA-113 (DSCS IIIB-7)
+Success	Interbol 1 & Magion 4
+Success	Panamsat-4
+Success	Molniya-3 n†­163
+Failure	GemStar 1
+Success	JCSAT-3
+Success	N-Star A
+Success	Sich 1 & FASat Alfa
+Partial Failure	Koreasat 1
+Success	STS-69
+Success	Telstar 402R
+Partial Failure	Cosmos 2321
+Success	Astra 1E
+Success	STS-73
+Success	USA-114 (UHF F6)
+Failure	METEOR
+Success	Cosmos 2322
+Success	RADARSAT-1 and SURFSAT
+Success	Milstar DFS-2
+Success	STS-74
+Success	Infrared Space Observatory
+Success	AsiaSat 2
+Success	SOHO
+Success	KH-11 Kennen
+Success	"Telecom 2C, Insat 2C"
+Success	Galaxy 3R
+Success	Cosmos 2326
+Success	IRS-1C & Skipper
+Success	EchoStar 1
+Success	XTE
+Success	STS-72
+Success	"Panamsat-3R, Measat-1"
+Success	Koreasat-2
+Success	Cosmos 2327
+Success	Palapa C1
+Success	N-Star B
+Failure	Intelsat 708
+Success	NEAR
+Success	Cosmos 2328 to 2330 & Gonets 1 to 3
+Success	STS-75
+Success	Polar
+Success	REX II
+Success	Intelsat 707
+Success	IRS-P3
+Success	STS-76
+Success	USA-117 (GPS IIA-16)
+Success	Inmarsat 3-F1
+Success	M-SAT-1
+Success	MSX
+Success	Cosmos 2265
+Success	Mercury
+Success	BeppoSAX
+Success	"SLDCOM, NOSS 3x, TiPS 2x"
+Success	"Palapa C2, AMOS-1"
+Success	MSTI-3
+Success	STS-77
+Success	Galaxy 9
+Failure	Cluster
+Success	Intelsat 709
+Success	STS-78
+Success	TOMS
+Success	SDS
+Success	Apstar 1A
+Success	"Arabsat-2A, T??rksat 1C"
+Success	USA-126 (GPS IIA-17)
+Success	UHF F7
+Success	"Italsat F2, Telecom 2D"
+Success	Molniya-1T n†­164
+Success	Fuji 2 & Midori
+Partial Failure	Chinasat-7
+Success	FAST
+Success	"Interbol 2, Magion5 & Victor"
+Success	Cosmos 2333
+Success	Cosmos 2334 & UNAMSAT-B
+Success	GE-1
+Success	Echostar-2
+Success	USA-128 (GPS IIA-18)
+Success	STS-79
+Success	FSW-2 No.3
+Success	Molniya-3 n†­165
+Failure	HETE & SAC-B
+Success	Mars Global Surveyor
+Success	"Arabsat-2B, Measat-2"
+Success	Hot Bird 2
+Success	Mars Pathfinder
+Success	STS-80
+Success	Cosmos 2335
+Success	Inmarsat 3-F3
+Success	Cosmos 2336
+Success	NROL-2 (KH-11 Kennen)
+Success	STS-81
+Failure	GPS IIR-1
+Success	"GE-2, Nahuel 1A"
+Success	STS-82
+Success	Muses B
+Success	Cosmos 2337 to 2339 & Gonets 4 to 6
+Success	JCSAT-4
+Success	DSP
+Success	Intelsat 801
+Success	Zeya
+Success	Tempo 2
+Success	USA-131
+Success	STS-83
+Success	"Thaicom 3, BSAT 1a"
+Success	Cosmos 2341
+Success	MiniSat & Celestis space burial
+Success	GOES-K
+Success	MS-1
+Success	ChinaSat 6
+Success	Cosmos 2342
+Success	STS-84
+Failure	Tselina-2 n†­19
+Success	Telenor Thor II
+Success	"Inmarsat 3 F4, Insat 2D"
+Success	Fengyun-2A
+Success	Intelsat 802
+Success	STS-94
+Success	MS-2
+Success	USA-132 (GPS IIR-2)
+Success	Superbird C
+Success	OrbView-2
+Success	STS-85
+Success	Panamsat-6
+Success	Agila-2
+Success	MS-3
+Success	Lewis
+Success	Advanced Composition Explorer
+Success	FORTE
+Success	Iridium mass simulator A&B
+Success	"Hot Bird 3, Meteosat 7"
+Success	GE-3
+Success	Cosmos 2346 & FAISAT-2V
+Success	Intelsat 803
+Success	Molniya-1T n†­166
+Success	STS-86
+Success	MS-4
+Partial Failure	IRS-1D
+Success	Echostar 3
+Success	Cassini???Huygens
+Success	Apstar 2R
+Success	STEP-4
+Success	NROL-3 (Lacrosse)
+Success	DSCS IIIB-13
+Partial Failure	"MaqSat-H, TEAMSAT, MaqSat-B, YES"
+Failure	SCD-2A
+Success	USA-134 (GPS IIA-19)
+Success	NROL-4 (Trumpet)
+Success	MS-5
+Success	STS-87
+Success	TRMM & Orihime/Hikoboshi
+Success	"JCSAT-5, Equator S"
+Success	Iridium 42 & 44
+Success	Galaxy 8i
+Success	Cosmos 2347
+Success	"Sirius-2, Cakrawarta-1"
+Success	MS-6
+Success	Intelsat 804
+Success	Orbcomm A1-A8
+Success	Earlybird 1
+Partial Failure	PAS-22
+Success	Lunar Prospector
+Success	Skynet 4D
+Success	STS-89
+Failure	Ofek-4
+Success	NROL-5/SDS
+Success	"Brasilsat B3, Inmarsat-3 F5"
+Success	GFO & Orbcomm 11 and 12
+Success	Globalstar-1
+Success	MS-7
+Partial Failure	Kakehashi
+Success	SNOE & BATSAT
+Success	Hot Bird 4
+Success	Intelsat 806
+Success	UHF F8
+Success	SPOT-4
+Success	Iridium 51 & 61
+Success	MS-8
+Success	TRACE
+Success	STS-90
+Success	Globalstar-2
+Success	"Nilesat-101, BSAT-1B"
+Success	Iridium 69 & 71
+Success	Cosmos 2351
+Success	NROL-6 (Mentor)
+Success	NOAA-15
+Success	MS-9
+Success	ChinaStar 1
+Success	STS-91
+Success	Thor III
+Partial Failure	Cosmos 2352 to 2357
+Success	SinoSat 1
+Success	Intelsat 805
+Success	Molniya-3 n†­167
+Success	Nozomi
+Success	Tubsat
+Success	Resurs-O1 n†­4 & Others
+Success	Cosmos 2360
+Success	Orbcomm B1 - B8
+Failure	NROL-7 (Mercury)
+Success	Molniya-1 n†­133
+Success	Iridium 76 & 78
+Success	Deep Space 1
+Success	ST-1
+Failure	Galaxy 10
+Failure	Kwangmyngsng 1
+Success	MS-10
+Failure	Globalstar Satellites
+Success	Panamsat-7
+Success	Orbcomm C1 - C8
+Success	Molniya-1T n†­168
+Success	STEX (NROL-8)
+Success	"Eutelsat W2, Sirius-3"
+Success	Hot Bird 5
+Success	UHF F9
+Success	MaqSat 3 & ARD
+Success	SCD-2
+Success	"Afristar, GE-5"
+Success	STS-95
+Success	MS-11
+Success	BONUM-1
+Success	STS-88
+Success	Satmex 5
+Success	SWAS
+Success	Nadiezhda n†­8 & Astrid 2
+Success	Mars Climate Orbiter
+Success	Iridium 88 & 89
+Success	Panamsat-6B
+Success	Cosmos 2361
+Success	Mars Polar Lander
+Success	ROCSAT 1
+Success	Stardust
+Success	JCSAT-6
+Success	"ARGOS (P91-1 ARGOS), ?örsted and SUNSAT"
+Success	"Arabsat-3A, Skynet 4E"
+Success	WIRE
+Success	DemoSat
+Success	Insat-2E
+Failure	DSP
+Success	Eutelsat W3
+Success	Landsat 7
+Success	UoSat 12
+Failure	Ikonos
+Success	ABRIXAS & Megsat 0
+Failure	Milstar DFS-3m
+Failure	Orion 3
+Success	Fengyun 1C & Shijian-5
+Success	TERRIERS & MUBLCOM
+Success	NROL-9 (Misty)
+Success	STS-96
+Success	"IRS-P4, DLR-Tubsat, & Kitsat-3"
+Success	Globalstar 3
+Success	Iridium 92 & 93
+Success	QuikSCAT
+Success	FUSE
+Success	Molniya-3 n†­169
+Success	Globalstar 4
+Success	Okean-O n†­1
+Success	STS-93
+Success	Globalstar 5
+Success	USA-145 (GPS IIR-3)
+Success	Telkom-1
+Success	Globalstar 6
+Success	Cosmos 2366
+Success	Koreasat-3
+Success	Echostar 5
+Success	Ikonos 1
+Success	Telstar 7
+Success	DirecTV 1R
+Success	CBERS-1 & SACI 1
+Success	Orion 2
+Success	GE-4
+Failure	Himawari 6
+Success	Shenzhou 1
+Success	UHF F10
+Success	Helios 1B & Cl??mentine
+Success	Orbcomm D1-D8
+Success	XMM-Newton
+Failure	SACI-2
+Success	USA-147
+Success	Terra
+Success	STS-103
+Success	Galaxy-11
+Success	Cosmos 2367
+Success	Cosmos 2368
+Success	KOMPSAT & ACRIMSAT
+Success	DSCS IIIB-8
+Success	Galaxy 10R
+Success	ChinaSat-22
+Success	JAWSat
+Success	Hispasat 1C
+Success	Globalstar 7
+Failure	Astro E
+Success	STS-99
+Success	Superbird 4
+Success	Cosmos 2369
+Success	Multispectral Thermal Imager (MTI)
+Failure	ICO F-1
+Success	INSAT-3B & AsiaStar
+Success	IMAGE
+Success	Galaxy 4R
+Success	GOES-L
+Success	DSP
+Success	GPS IIR-4
+Success	SimSat 1 & 2 (Iridium)
+Success	STS-101
+Success	Eutelsat W4
+Success	TSX-5
+Success	Fengyun-2B
+Success	"Nadiezhda n†­9, Tsinghua-1 & SNAP-1"
+Success	TDRS-H
+Success	Echostar 6
+Success	"CHAMP, MITA & Rubin 1"
+Success	GPS IIR-5
+Success	MightySat 2.1
+Success	PAS 9
+Success	"Brasilsat B4, Nilesat 102"
+Success	NROL-11 (Onyx)
+Success	DM F3
+Success	Eutelsat W1
+Success	STS-106
+Success	Astra 2B & GE-7
+Success	NOAA-16
+Success	Cosmos 2372
+Success	Megsat 1 & Others
+Success	N-SAT 110
+Success	HETE 2
+Success	STS-92
+Success	DSCS III-B11
+Success	Thuraya 1
+Success	EuropeStar F1
+Success	Beidou-1A
+Success	GPS IIR-6
+Success	"PanAmSat-1R, Amsat-P3D, STRV 1C, STRV 1D"
+Failure	QuickBird-1
+Success	EO-1 / SAC-C
+Success	Anik F1
+Success	STS-97
+Success	EROS A
+Success	NROL-10
+Success	"Astra 2D, GE-8, LDREX"
+Success	Beidou-1B
+Failure	Cosmos 2377 to 2379 & Gonets 7 to 9
+Success	Shenzhou 2
+Success	Turksat 2A
+Success	GPS IIR-7
+Success	"Sicral-1, Skynet 4F"
+Success	STS-98
+Success	Odin
+Success	Milstar DFS-4
+Success	STS-102
+Success	Eurobird-1 & BSat-2a
+Success	XM-2
+Success	Mars Odyssey
+Partial Failure	GSAT-1
+Success	STS-100
+Success	XM-1
+Success	NROL-17 (GeoLITE)
+Success	Cosmos 2378
+Success	Intelsat 901
+Success	ICO F2
+Success	WMAP
+Success	STS-104
+Partial Failure	Artemis & BSAT-2b
+Success	Molniya-3K n†­170
+Success	GOES-M
+Success	DSP
+Success	Genesis Probe
+Success	STS-105
+Success	VEP 2 & LRE
+Success	Intelsat 902
+Success	NROL-13 (Intruder FA & 5B)
+Failure	Orbview-4/QuikTOMS
+Success	Atlantic Bird 2
+Success	Starshine 3 & Others
+Success	NROL-14 (KH-11 Kennen)
+Success	NROL-12
+Success	QuickBird
+Success	"TES, BIRD & PROBA"
+Success	Molniya-3 n†­171
+Success	DirecTV-4S
+Success	STS-108
+Success	Jason-1 / TIMED
+Success	Meteor 3M n†­1 & Others
+Success	Cosmos 2383
+Success	Cosmos 2384 to 2386 & Gonets 10 to 12
+Success	Milstar DFS-5
+Success	Insat 3C
+Success	"VEP 3, Tsubasa & DASH"
+Success	RHESSI
+Success	Iridium IS-1
+Success	EchoStar VII
+Success	Intelsat 904
+Success	Envisat
+Success	STS-109
+Success	TDRS-I
+Success	GRACE 1 & 2
+Success	Shenzhou 3
+Success	"Astra 3A, JCSAT-8"
+Success	Cosmos 2388
+Success	STS-110
+Success	NSS-7
+Success	Aqua
+Success	Fengyun-1D & Haiyang-1A
+Success	Cosmos 2389
+Success	Ofek-5
+Success	Intelsat 905
+Success	STS-111
+Success	Galaxy IIIC
+Success	Iridium SV97 and SV98
+Success	NOAA-17
+Success	Stellat-5 & NStar-C
+Success	CONTOUR
+Success	"SPOT-5, IDEFIX"
+Success	Cosmos 2390 and 2391
+Success	Hot Bird 6
+Success	"Atlantic Bird 1, MSG-1, MFD"
+Success	Intelsat 906
+Success	USERS & Kodama
+Success	C4 - MetSat-1 (Kalpana-1)
+Failure	PS 1
+Success	Hispasat 1D
+Success	Nadiezhda-M n†­1
+Success	STS-112
+Success	Ziyuan ll-02
+Success	Eutelsat W5
+Success	STS-113
+Success	"AlSat 1, Mozhayets 4 & Rubin 3-DSI"
+Success	TDRS-J
+Failure	"Hot Bird 7, Stentor, MFD-A, MFD-B"
+Success	"Midori 2, WEOS & Others"
+Success	NSS-6
+Success	Rubin 2 & Others
+Success	Cosmos 2393
+Success	Shenzhou 4
+Success	Coriolis
+Success	ICESat / CHIPSat
+Failure	STS-107
+Success	SORCE
+Success	GPS IIR-8
+Success	Intelsat 907
+Success	DSCS-3 A3
+Success	"IGS-Optical 1, IGS-Radar 1"
+Success	GPS IIR-9
+Success	Molniya-1T n†­172
+Success	Milstar DFS-6
+Success	INSAT-3A & Galaxy 12
+Success	AsiaSat 4
+Success	GALEX
+Success	GSAT-2
+Success	Hayabusa
+Success	HellasSat-2
+Success	Beidou-1C
+Success	Mars Express
+Success	Cosmos 2398
+Success	Thuraya-2
+Success	Spirit
+Success	Optus C1 & BSAT-2c
+Success	Molniya-3 n†­173
+Success	OrbView-3
+Success	Monitor-E GVM & Others
+Success	Opportunity
+Success	Rainbow 1
+Success	EchoStar 9
+Success	SCISAT-1
+Success	Cosmos 2400 and 2401
+Success	Spitzer Space Telescope
+Prelaunch Failure	"SATEC, UNOSAT"
+Success	DSCS-3 B6
+Success	NROL-19 (Mentor)
+Failure	PS 2
+Success	STSAT 1 & Others
+Success	"Insat 3E, eBird-1, SMART-1"
+Success	Galaxy-13
+Success	Shenzhou 5
+Success	RESOURCESAT-1 (IRS-P6)
+Success	USA-172
+Success	CBERS-2 & Chuangxin 1(01)
+Success	SERVIS-1
+Success	FSW-3 No.1
+Success	Chinasat-20
+Failure	"IGS-Optical (2), IGS-Radar (2)"
+Success	NROL-18 (Intruder 6A & 6B)
+Success	Gruzomaket
+Success	UHF F/O F11
+Success	GPS IIR-10
+Success	Double Star 1
+Success	Telstar 14
+Success	AMC-10
+Success	DSP
+Success	Cosmos 2405 (Molniya-1T n†­174)
+Success	Rosetta & Philae
+Success	MBSat
+Success	GPS IIR-11
+Success	Superbird 6
+Success	Shiyan-1 & Nano Satellite 1
+Success	AMC-11
+Success	Gravity Probe B
+Success	DirecTV-7S
+Success	ROCSAT-2
+Success	Cosmos 2405
+Success	Cosmos 2406
+Success	GPS IIR-12
+Success	Telstar 18
+Success	DEMETER & Others
+Success	Aura
+Success	Anik F2
+Success	Cosmos 2407
+Success	Double Star 2
+Success	MESSENGER
+Success	FSW-4 No.1
+Success	NROL-1
+Failure	Ofek-6
+Success	Shijian-6A & 6B
+Success	GSAT-3
+Success	Cosmos 2408 and 2409
+Success	FSW-3 No.2
+Success	Fengyun-2C
+Success	Ziyuan ll-03
+Success	GPS IIR-13
+Success	Demo Flight
+Success	Shiyan-2
+Success	Swift
+Success	AMC-16
+Success	"Helios 2A, Essaim-1,2,3,4, PARASOL, Nanosat 01"
+Partial Failure	DemoSat and 3CS-1 & 2
+Partial Failure	Sich 1M & Micron 1
+Success	Deep Impact
+Success	Cosmos 2414 & Universitietski
+Success	NROL-23 (Intruder 7A & 7B)
+Success	"XTAR-EUR, Maqsat-B2, Sloshsat-FLEVO"
+Success	Himawari 6
+Success	XM-3
+Success	Inmarsat-4 F1
+Success	XSS-11
+Success	Apstar 6
+Success	DART
+Success	Spaceway-1
+Success	NROL-16 (Onyx)
+Success	Cartosat-1 & HAMSAT
+Success	NOAA-N
+Failure	Molniya-3K n†­175
+Failure	Cosmos 1
+Success	Intelsat-Americas 8
+Success	Shijian-7
+Success	Suzaku
+Success	STS-114
+Success	FSW-4 No. 2
+Success	iPStar-1
+Success	Mars Reconnaissance Orbiter
+Success	Kirari and Reimei
+Success	Monitor-E
+Success	FSW-3 No. 3
+Success	Streak (STP-R1)
+Success	GPS IIRM-1
+Failure	CryoSat-1
+Success	Syracuse 3A & Galaxy 15
+Success	Shenzhou 6
+Success	NROL-20 (KH-11 Kennen)
+Success	TopSat 1 & Others
+Success	Inmarsat 4F-2
+Success	Spaceway-2 & Telkom-2
+Success	Cosmos 2416
+Success	INSAT-4A & MSG-2
+Success	New Horizons
+Success	Daichi
+Success	EchoStar-X
+Success	Himawari 7
+Success	"SSSat 1, CUTE 1.7 & Akari"
+Success	Spainsat & Hot Bird 7A
+Failure	FalconSat-2
+Success	ST-5
+Success	JCSat-9
+Success	COSMIC (FORMOSAT-3)
+Success	Astra 1KR
+Success	EROS B
+Success	Yaogan 1
+Success	"CloudSat, CALIPSO"
+Success	GOES-N (GOES-13)
+Success	Kompass-2
+Success	Satmex-6 & Thaicom-5
+Success	Galaxy 16
+Success	MiTEx
+Success	Cosmos 2421
+Success	NROL-22
+Success	STS-121
+Failure	INSAT-4C
+Success	Genesis 1
+Success	Cosmos 2422
+Failure	BelKa 1 & Others
+Success	KompSat-2
+Success	JCSAT-10 & Syracuse 3B
+Success	Koreasat 5
+Success	Shijian-8
+Success	STS-115
+Success	IGS-Optical 2
+Success	Chinasat-22A
+Success	"SSSat 2, Hinode & Camatai"
+Success	GPS IIRM-2
+Success	"DirecTV-9S, Optus D1, LDREX-2"
+Success	Shijian-6C & 6D
+Success	STEREO
+Success	SinoSat 2
+Success	XM-4
+Success	DMSP F17
+Success	GPS IIRM-3
+Success	Fengyun-2D
+Success	WildBlue-1 & AMC-18
+Success	STS-116
+Success	NROL-21
+Success	TacSat-2 & GeneSat-1
+Success	Kiku 8
+Success	SAR-Lupe 1
+Success	Cartosat-2 & SRE-1 & Rideshares
+Failure	NSS-8
+Success	Beidou-1D
+Success	THEMIS
+Success	"IGS-Optical 3V, IGS-Radar 2"
+Success	"STP-1, FalconSat-3"
+Success	Skynet 5A & INSAT-4B
+Failure	DemoSat
+Success	Haiyang-1B
+Success	Compass-M1
+Success	EgyptSat 1 & Others
+Success	AGILE & AAM
+Success	NFIRE
+Success	AIM
+Success	Astra 1L & Galaxy 17
+Success	NIGCOMSAT-1
+Success	Yaogan 2 & ZDPS-1
+Success	SinoSat 3
+Success	COSMO-SkyMed
+Success	STS-117
+Success	Ofek-7
+Success	TerraSAR-X
+Partial Failure	NROL-30 & NOSS-3
+Success	Genesis 2
+Success	Cosmos 2428
+Success	SAR-Lupe 2
+Success	Chinasat-6B
+Success	Phoenix
+Success	STS-118
+Success	Spaceway-3 & BSat-3A
+Partial Failure	INSAT-4CR
+Success	Cosmos 2429
+Success	SELENE
+Success	DigitalGlobe WorldView-1
+Success	CBERS-2B
+Success	Dawn
+Success	Intelsat 11 & Optus D2
+Success	WSG-1
+Success	GPS IIRM-4
+Success	STS-120
+Success	Cosmos 2430
+Success	Chang'e 1
+Success	SAR-Lupe 3
+Success	DSP-23
+Success	Yaogan 3
+Success	Skynet 5B & Star One C1
+Success	COSMO-2
+Success	NROL-24
+Success	GPS IIRM-5
+Success	Rascom-QAF1 & Horizons-2
+Success	Thuraya-3
+Success	TecSAR
+Success	STS-122
+Success	Kizuna
+Success	Jules Verne ATV
+Success	STS-123
+Success	NROL-28
+Success	GPS IIRM-6
+Success	DirecTV-11
+Success	SAR-Lupe 4
+Success	ICO G1
+Success	C/NOFS
+Success	Star One C2 & Vinasat-1
+Success	Tianlian I-01
+Success	Cartosat-2A & Rideshares
+Partial Failure	AMOS 3
+Success	Galaxy 18
+Success	"Cosmos 2437 to 2439, Youbilielnyi"
+Success	Fengyun-3A
+Success	STS-124
+Success	ChinaSat 9
+Success	GLAST
+Success	Skynet 5C & Turksat 3A
+Success	Orbcomm Satellites
+Success	Jason-2
+Success	ProtoStar-1 & Badr-6
+Success	EchoStar XI
+Success	SAR-Lupe 5
+Failure	Flight 3
+Success	Superbird-7 & AMC-21
+Failure	Unknown Payload
+Success	RapidEye 1 to 5
+Success	Huanjing-1A & 1B
+Success	GeoEye-1
+Success	Galaxy 19
+Success	Shenzhou 7
+Success	RatSat
+Success	THEOS 1
+Success	IBEX
+Success	Chandrayaan-1
+Success	Shijian-6E & F
+Success	COSMO-3
+Success	VENESAT 1
+Success	Shiyan-3 & Chuangxin-1(02)
+Success	Shiyan-3 & Chuangxin-1(02)
+Success	STS-126
+Success	Cosmos 2446
+Success	Hot Bird 9 & Eutelsat W2M
+Success	NROL-26
+Success	"Ibuki, Maido 1 & Others"
+Success	Koronas Foton
+Success	Omid
+Success	NOAA-N Prime
+Success	"Hot Bird 10, NSS-9, Spirale-A & B"
+Failure	Orbiting Carbon Observatory
+Success	Telstar-11N
+Success	Kepler
+Success	STS-119
+Success	GOCE
+Success	GPS IIRM-7
+Success	WGS-2
+Failure	Kwangmyngsng-2
+Success	RISAT-2 & ANUSAT
+Success	Sicral-1B
+Success	STSS-ATRR
+Success	STS-125
+Success	Herschel Space Observatory & Planck
+Success	TacSat-3 / PharmaSat / AeroCube 3 / HawkSat I / CP6
+Success	LRO/LCROSS
+Success	MEASAT 3a
+Success	GOES-O
+Success	TerreStar-1
+Success	Cosmos 2451 to 2453
+Success	RazakSat
+Success	STS-127
+Success	Cosmos 2454
+Success	DubaiSat 1 & Others
+Success	GPS IIRM-8
+Success	JCSAT-12 & Optus D3
+Failure	STSAT-2A
+Success	STS-128
+Success	PAN
+Success	HTV-1
+Success	Oceansat-2 & Rideshares
+Success	STSS Demo
+Success	Amazonas 2 & COMSATBw-1
+Success	WorldView-2
+Success	DMSP-5D3-F18
+Success	Ares 1-X Test Flight
+Success	NSS-12 & Thor-6
+Success	SMOS and Proba-2
+Success	STS-129
+Success	Intersat 14
+Success	IGS-Optical 3
+Success	Intelsat 15
+Success	WGS-3
+Success	WISE
+Success	Helios 2B
+Success	Soyuz-U
+Success	STS-130
+Success	SDO
+Success	GOES 15
+Success	Soyuz TMA-18
+Success	STS-131
+Success	CryoSat-2
+Failure	GSAT-4
+Success	OTV-1
+Success	Cosmos 2463
+Success	Progress M-05M
+Success	"Akatsuki, IKAROS & Others"
+Success	STS-132
+Success	Astra 3B  & COMSATBw-2
+Success	GPS IIF-1
+Success	SERVIS-2
+Success	Flight 1
+Failure	STSAT-2B
+Success	Picard & Others
+Success	TanDEM-X
+Success	Ofek-9
+Success	"Arabsat-5A, COMS-1"
+Success	Cartosat-2B & Rideshares
+Success	"Nilesat-201, Rascom-QAF 1R"
+Success	AEHF-1
+Success	"Cosmos 2467, 2468 and Goniets-M 12"
+Success	NROL-41
+Success	SBSS
+Success	Cosmos 2469
+Success	"Eutelsat W3B, BSAT-3B"
+Success	COSMO-4
+Success	STP-S26
+Success	NROL-32
+Success	"Intelsat 17, HYLAS-1"
+Success	COTS-1
+Failure	GSAT-5P
+Success	"Koreasat 6, Hispasat-1E"
+Success	Elektro-L n†­1
+Success	NROL-49
+Success	HTV-2
+Partial Failure	Cosmos 2470
+Success	NROL-66
+Success	Johannes Kepler ATV
+Success	STS-133
+Failure	"Glory, KySat-1, Hermes, and Explorer-1 [PRIME]"
+Success	OTV-2
+Success	NROL-27
+Success	NROL-34
+Success	ResourceSat-2 & X-Sat & YouthSat
+Success	"Yahsat 1A, Intelsat 28 (New Dawn)"
+Success	SBIRS GEO-1
+Success	STS-134
+Success	"ST-2, GSAT-8"
+Success	SAC-D
+Success	Rasad 1
+Success	ORS-1
+Success	STS-135
+Success	GSAT-12
+Success	GPS IIF-2
+Success	Spektr-R
+Success	Juno
+Success	"Astra 1N, BSAT-3C (JCSAT-110R)"
+Success	Sich 2 & Others
+Success	GRAIL
+Success	Michibiki 1
+Success	"Arabsat-5C, SES-2"
+Success	IGS-Optical 4
+Success	Atlantic Bird 7
+Success	TacSat-4
+Success	Tiangong-1
+Success	Intelsat 18
+Success	Megha-Tropiques & Rideshares
+Success	Galileo IOV FM01-FM02
+Success	Suomi NPP / ELaNa III
+Success	Shenzhou 8
+Success	Fobos-Grunt & Yinghuo 1
+Success	Mars Science Laboratory
+Success	IGS-Radar 3
+Success	"Pl??iades 1A, SSOT, Elisa"
+Success	WGS-4
+Success	Navid
+Success	"Lares, AlmaSat-1 & 7 cubesats"
+Success	MUOS-1
+Success	Edoardo Amaldi ATV
+Success	NROL-25
+Failure	Kwangmyngsng-3
+Success	RISAT-1
+Success	PSLV- C19 RISAT-1
+Success	AEHF-2
+Success	"JCSAT-13, Vinasat-2"
+Success	"Shizuku, KOMPSAT 3 & Others"
+Success	COTS-2+
+Failure	Unknown Payload
+Success	Intelsat-19
+Success	NuSTAR
+Success	Shenzhou 9
+Success	NROL-38
+Success	NROL-15
+Success	"EchoStar XVII, MSG-3"
+Success	HTV-3
+Success	Cosmos 2481 & Goniets-M 13 and 15
+Success	"Intelsat 20, HYLAS 2"
+Success	Intelsat-21
+Success	Van Allen Probes (RBSP)
+Success	SPOT-6 & mRESINS & PROITERES
+Success	NROL-36
+Failure	Unknown Payload
+Success	"Astra 2F, GSAT-10"
+Success	GPS IIF-3
+Partial Failure	CRS-1
+Success	Galileo IOV FM03-FM04
+Success	"Eutelsat 21B, Star One C3"
+Success	Pl??iades 1B
+Success	Eutelsat-70B
+Success	OTV-3
+Success	Kwangmyngsng-3 (Unit 2)
+Success	"Skynet 5D, Mexsat-3"
+Partial Failure	Cosmos 2482 to 2484
+Success	IGS-Optical 5V & IGS-Radar 4
+Success	STSAT-2C
+Success	TDRS-K
+Failure	Intelsat-27
+Success	"Amazonas-3, Azerspace-1 (Africasat-1A)"
+Success	Landsat 8
+Success	SARAL & Rideshares
+Success	CRS-2
+Success	SBIRS GEO-2
+Success	Antares A-ONE
+Success	"Proba-V, VNREDSat-1A & ESTCube-1"
+Success	GPS IIF-4
+Success	WGS-5
+Success	Albert Einstein ATV
+Success	Shenzhou 10
+Success	O3b FM01-FM02/FM04-FM05
+Success	Cosmos 2487
+Success	IRIS
+Success	IRNSS-1A
+Failure	"Cosmos 2488, 2489 & 2490"
+Success	MUOS-2
+Success	"Alphasat I-XL, INSAT-3D"
+Success	HTV-4
+Success	WGS-6
+Success	KompSat-5
+Success	NROL-65
+Success	"Eutelsat 25B/Es'hail 1, GSAT-7"
+Success	AMOS 4
+Success	LADEE
+Success	"Goniets-M 14, 16 and 17"
+Success	CRS Orb-D1
+Success	SPRINT-A
+Success	AEHF-3
+Success	Kuaizhou 1
+Success	CASSIOPE
+Success	Mars Orbiter Mission
+Success	MAVEN
+Success	ORS-3
+Success	DubaiSat 2 & Others
+Success	SWARM
+Success	SES-8
+Success	NROL-39
+Success	Gaia
+Success	Cosmos 2488 to 2491
+Success	Cosmos 2492 and 2493 & AIST-1 1
+Success	GSAT-14
+Success	Thaicom 6
+Success	CRS Orb-1
+Success	TDRS-L
+Success	"ABS-2, Athena-Fidus"
+Success	GPS IIF-5
+Success	GPM-Core & Others
+Success	"Astra 5B, Amazonas 4A"
+Success	DMSP-5D3 F19
+Success	Sentinel 1A
+Success	IRNSS-1B
+Success	Ofek-10
+Success	NROL-67
+Success	CRS-3
+Success	KazEOSat-1
+Success	GPS IIF-6
+Success	NROL-33
+Success	Cosmos 2496 to 2499
+Success	"Daichi 2, SPROUT & Others"
+Success	Eutelsat-3B
+Success	Deimos 2
+Success	SPOT-7 & Rideshares
+Success	OCO-2
+Success	Goniets-M 18 to 20
+Success	Demo Flight
+Success	O3b FM03/FM06-FM08
+Success	CRS Orb-2
+Success	OG2 Mission 1
+Success	AFSPC-4
+Success	Georges Lema??tre ATV
+Success	GPS IIF-7
+Success	AsiaSat 8
+Success	WorldView 3
+Partial Failure	Galileo FOC FM01-FM02
+Success	AsiaSat 6
+Success	"MEASAT 3b, Optus 10"
+Success	CLIO
+Success	CRS-4
+Success	Himawari 8
+Success	IRNSS-1C
+Success	"Intelsat 30, ARSAT-1"
+Failure	CRS Orb-3
+Success	GPS IIF-8
+Success	Sasuke & Others
+Success	Kuaizhou 2
+Success	Hayabusa 2 & Others
+Success	EFT-1
+Success	"DirecTV-14, GSAT-16"
+Success	NROL-35
+Success	Demo Flight (CARE)
+Success	O3b FM09-FM12
+Success	Kondor-E
+Success	Demo Flight
+Success	CRS-5
+Success	MUOS-3
+Success	SMAP / ELaNa X
+Success	IGS-Radar 5
+Success	Fajr
+Success	IXV
+Success	DSCOVR
+Failure	Unknown Payload
+Success	ABS-3A & EUTELSAT 115 West B
+Success	MMS
+Success	GPS IIF-9
+Success	KompSat-3A
+Success	IGS-Optical 5
+Success	Galileo FOC FM03-FM04
+Success	IRNSS-1D
+Success	Cosmos 2504 & Goniets-M 21 to 23
+Success	CRS-6
+Success	"Thor 7, SICRAL-2"
+Success	Turkmen??lem52E/MonacoSat
+Success	NS-1
+Success	OTV-4
+Success	"DirecTV-15, Sky Mexico 1"
+Success	Sentinel-2A
+Failure	CRS-7
+Success	UK-DMC3A/B/C & Rideshares
+Success	GPS IIF-10
+Success	"Star One C4, MSG-4"
+Success	WGS-7
+Success	HTV-5
+Success	"Eutelsat 8 West B, Intelsat 34"
+Success	GSAT-6
+Success	MUOS-4
+Success	Galileo FOC FM05-FM06
+Success	Demo Flight
+Success	Cosmos 2507 to 2509
+Success	Pujian 1 & Others
+Success	Astrosat & Rideshares
+Success	"NBN Co 1A, ARSAT-2"
+Success	Morelos-3
+Success	NROL-55
+Success	GPS IIF-11
+Failure	"HiakaSat, STACEM & Others"
+Success	"Arabsat 6B, GSAT-15"
+Success	NS-2
+Success	Telstar 12 Vantage
+Success	LISA Pathfinder
+Partial Failure	Cosmos 2511 and 2512
+Success	CRS OA-4
+Success	Elektro-L n†­2
+Success	TeLEOS-1 & Rideshares
+Success	Galileo FOC FM8-FM9
+Success	OG2 Mission 2
+Success	Belintersat 1
+Success	Jason-3
+Success	IRNSS-1E
+Success	NS-3
+Success	Intelsat 29e
+Success	Eutelsat 9B
+Success	BeiDou M3-S
+Success	GPS IIF-12
+Success	GLONASS-M No.50S
+Success	Kwangmyngsng-4
+Success	NROL-45
+Success	Sentinel-3A
+Success	"Astro H, Horyu 4 & Kinshachi 2 and 3"
+Success	SES-9
+Success	Eutelsat 65 West A
+Success	IRNSS-1F
+Success	Resurs-P No.3
+Success	ExoMars Trace Gas Orbiter & Schiaparelli EDM
+Success	Soyuz TMA-20M
+Success	CRS OA-6
+Success	Bars-M 2L
+Success	BeiDou IGSO-6
+Success	Progress MS-02
+Success	NS-4
+Success	Shijian-10
+Success	CRS-8
+Success	"Sentinel 1B, MICROSCOPE & Others"
+Success	"Mikhailo Lomonosov, Aist-2D, & SamSat 218"
+Success	IRNSS-1G
+Success	JCSAT-14
+Success	Yaogan 30
+Success	Galileo FOC FM10/FM11
+Success	Thaicom 8
+Success	GLONASS-M No.51S
+Success	"Ziyuan III-02 & ??uSat-1, 2"
+Success	Cosmos 2517
+Success	Intelsat 31 / DLA-2
+Success	NROL-37
+Success	BeiDou-2 G7
+Success	ABS-2A & Eutelsat 117 West B
+Success	"EchoStar 18, BRISat"
+Success	NS-5
+Success	Cartosat-2C & Rideshares
+Success	MUOS-5
+Success	Demo Flight
+Success	Shijian 16-02
+Success	Soyuz MS-01
+Success	Progress MS-03
+Success	CRS-9
+Success	NROL-61
+Success	Tiantong-1 01
+Success	Gaofen-3
+Success	JCSAT-16
+Success	"QUESS, Lixing-1, & 3CAT 2"
+Success	AFSPC-6
+Success	"Intelsat 33e, Intelsat 36"
+Failure	Gaofen-10
+Prelaunch Failure	AMOS-6
+Success	INSAT-3DR
+Success	OSIRIS-REx
+Success	Ofek-11
+Success	Tiangong-2
+Success	PeruSat-1 and SkySats 4-7
+Success	ScatSat-1 & Rideshares
+Success	"Sky Muster II, GSAT-18"
+Success	NS-6 (Inflight Escape Test)
+Success	Shenzhou 11
+Success	CRS OA-5
+Success	Soyuz MS-02
+Success	Himawari 9
+Success	Shijian-17
+Success	"XPNAV 1, Xiaoxiang 1 & Others"
+Success	WorldView-4
+Success	Yunhai-1
+Success	Galileo FOC FM7/FM12-FM14
+Success	Soyuz MS-03
+Success	GOES-R (GOES-16)
+Success	Tianlian I-04
+Failure	Progress MS-04
+Success	G??kt??rk-1A
+Success	Resourcesat-2A
+Success	WGS-8
+Success	HTV-6
+Success	Fengyun 4A
+Success	CYGNSS
+Success	EchoStar 19
+Success	ERG
+Success	"TanSat & Spark 1, 2"
+Success	"Star One D1, JCSAT-15"
+Partial Failure	"SuperView-1 1, 2 & Bayi Kepu 1"
+Success	TJS 2
+Success	"Jilin-1 03, Caton-1 & Xingyun Shiyan 1"
+Success	Iridium-1
+Failure	TRICOM-1
+Success	SBIRS GEO-3
+Success	DSN-2
+Success	Hispasat AG1
+Success	Intelsat 32e/SkyBrasil-1 & Telkom-3S
+Success	Cartosat-2D & Rideshares
+Success	CRS-10
+Success	Progress MS-05 (66P)
+Success	NROL-79
+Success	Tiankun-1
+Success	Sentinel 2B
+Success	Echostar 23
+Success	IGS-Radar 5
+Success	WGS-9
+Success	SES-10
+Success	Shijian 13
+Success	CRS OA-7
+Success	Soyuz MS-04 (50S)
+Success	Tianzhou 1
+Success	NROL-76
+Success	"Koreasat 7, SGDC-1"
+Success	GSAT-9
+Success	Inmarsat-5 F4
+Success	SES-15
+Failure	It's a Test
+Success	EKS-2
+Success	QZS-2
+Success	"ViaSat 2, Eutelsat 172B"
+Success	CRS-11
+Success	GSAT-19
+Success	Echostar 21
+Success	Progress MS-06 (67P)
+Success	HXMT & Others
+Partial Failure	ChinaSat 9A
+Success	Cartosat-2E & Rideshares
+Success	"Cosmos 2519, 2521 and 2523"
+Success	BulgariaSat-1
+Success	Iridium-2
+Success	"Hellas Sat 3-Inmarsat S EAN, GSAT-17"
+Failure	Shijian-18
+Success	Intelsat 35e
+Partial Failure	Kanopus-V IK & Rideshares
+Failure	Test Flight
+Success	Soyuz MS-05 (51S)
+Success	OPSAT 3000 & VEN†æS
+Success	Soyuz MS-06 (52S)
+Success	CRS-12
+Success	Blagovest-11L
+Success	TDRS-M (TDRS-13)
+Success	QZS-3
+Success	GLONASS-M No.52S
+Success	Formosat-5
+Success	ORS-5
+Failure	IRNSS-1H
+Success	OTV-5
+Success	Amazonas 5
+Success	NROL-42
+Success	AsiaSat 9
+Success	"Yaogan-30 A, B & C"
+Success	"Intelsat 37e, BSAT-4a"
+Success	VRSS-2
+Success	Iridium-3
+Success	QZS-4
+Success	SES-11 / EchoStar 105
+Success	Sentinel-5P
+Success	Progress MS-07 (68P)
+Success	NROL-52
+Success	Koreasat 5A
+Success	SkySat & Flock-3m
+Success	BeiDou-3 M1 & M2
+Success	Mohammed VI-A
+Success	CRS OA-8E
+Success	Fengyun 3D
+Success	JPSS-1
+Success	"Jilin-1 Video 04, 05 & 06"
+Success	"Yaogan-30 D, E, & F"
+Failure	Meteor-M No.2-1 & Rideshares
+Success	Cosmos 2524
+Success	LKW-1
+Success	Alcomsat-1
+Success	Galileo FOC FM15-FM18
+Success	CRS-13
+Success	Soyuz MS-07 (53S)
+Success	NS-7
+Success	GCOM-C & SLATS
+Success	Iridium-4
+Success	LKW-2
+Success	"Yaogan-30 G, H & I"
+Success	AngoSat-1
+Success	Zuma
+Success	SuperView 03 & 04
+Success	BeiDou-3 M7 & M8
+Success	Cartosat-2F & Rideshares
+Success	NROL-47
+Success	LKW-3
+Success	ASNARO 2
+Success	"Jilin-1 07, 08 & Others"
+Success	SBIRS GEO-4
+Success	Still Testing
+Success	"Yaogan 30 J, K & L"
+Partial Failure	SES-14/GOLD & Al Yah-3
+Success	GovSat-1 / SES-16
+Success	Kanopus-V No. 3-4 & Rideshares
+Success	CSES & Rideshares
+Success	Tricom-1R
+Success	Test Flight
+Success	BeiDou-3 M3 & M4
+Success	Progress MS-08 (69P)
+Success	"PAZ & Tintin A, Tintin B"
+Success	IGS-Optical 6
+Success	GOES-S (GOES-17)
+Success	Hispasat 30W-6
+Success	O3b FM13-FM16
+Success	LKW-4
+Success	Soyuz MS-08 (54S)
+Success	GSAT-6A
+Success	Cosmos 2525
+Success	BeiDou-3 M9 & M10
+Success	Iridium-5
+Success	Gaofen-1 02-04
+Success	CRS-14
+Success	Superbird-B3/DSN-1 & HYLAS-4
+Success	"Yaogan 31 A, B, & C"
+Success	IRNSS-1I
+Success	AFSPC-11
+Success	Blagovest-12L
+Success	Transiting Exoplanet Survey Satellite (TESS)
+Success	Sentinel-3B
+Success	Zhuhai-1 2A to 2D
+Success	NS-8
+Success	Apstar 6C
+Success	InSight
+Success	Gaofen 5
+Success	Bangabandhu-1
+Success	"Queqiao, Longjiang 1 & 2"
+Success	CRS OA-9E
+Success	Iridium-6 & GRACE-FO
+Success	Gaofen 6 & Luojia 1
+Success	SES-12
+Success	Fengyun 2H
+Success	Soyuz MS-09 (55S)
+Success	IGS Radar-6
+Success	GLONASS-M No.53S
+Success	XJSS A & B
+Success	CRS-15
+Success	PRSS-1 & PakTES-1A
+Success	BeiDou-2 I7
+Success	Progress MS-09 (70P)
+Success	NS-9 (Inflight Escape Test)
+Success	Telstar 19V
+Success	Galileo FOC FM19-FM22
+Success	Iridium-7
+Success	BeiDou-3 M5 & M6
+Success	Gaofen 11
+Success	Merah Putih (Telkom-4)
+Success	Parker Solar Probe
+Success	ADM-Aeolus
+Success	BeiDou-3 M11 & M12
+Partial Failure	Launch 1
+Success	Haiyang 1C (HY-1C)
+Success	Telstar 18V / APStar 5C
+Success	ICESat-2
+Success	SSTL-1 & NovaSAR-S
+Success	BeiDou-3 M13 & M14
+Success	HTV-7
+Success	Horizons-3e & Azerspace 2/Intelsat 38
+Success	CentiSpace-1 S1
+Success	SAOCOM 1A
+Success	Yaogan-32 Group 01
+Failure	Soyuz MS-10 (56S)
+Success	BeiDou-3 M15 & M16
+Success	AEHF-4
+Success	BepiColombo
+Success	Haiyang-2B
+Success	Lotus-S No.4
+Failure	CCTV Future-1
+Success	"CFOSAT, Zhaojin-1, Hongyan-1, & Others"
+Success	"Ibuki 2, KhalifaSat & Others"
+Success	Beidou-3 G1
+Success	GLONASS-M No.54S
+Success	MetOp C
+Success	It's Business Time
+Success	GSAT 29
+Success	Es'hail 2
+Success	Progress MS-10 (71P)
+Success	CRS NG-10
+Success	BeiDou-3 M17 & M18
+Success	"Shiyan-6, Jiading-1 (OKW-01), & Others"
+Success	Mohammed VI-B
+Success	HySIS
+Success	Cosmos 2530 to 2532
+Success	Soyuz MS-11 (57S)
+Success	Spaceflight SSO-A
+Success	GSAT-11 & GEO-KOMPSAT 2A
+Success	CRS-16
+Success	"SaudiSAT 5A, & 5B and Others"
+Success	Chang'e-4
+Success	This one's for Pickering
+Success	GSAT-7A
+Success	CSO 1
+Success	Blagovest No.13L
+Success	Hongyun-1
+Success	GPS III SV01
+Success	TJS-3
+Success	Kanopus-V No. 5-6 & Rideshares
+Success	Hongyan-1
+Success	Zhongxing-2D (Chinasat-2D)
+Success	Iridium-8
+Failure	Payam-e Amirkabir
+Success	Innovative Satellite Technology Demonstration-1
+Success	NROL-71
+Success	Jilin-1 Hyperspectral & Others
+Success	NS-10
+Success	Microsat-R
+Success	GSAT-31 & Hellas-Sat-4
+Failure	Dousti
+Success	EgyptSat-A
+Success	Nusantara Satu & Beresheet
+Success	OneWeb #1
+Success	SpaceX Demo-1
+Partial Failure	Launch 2
+Success	Zhongxing-6C
+Success	Soyuz MS-12 (58S)
+Success	WGS-10
+Success	PRISMA
+Failure	Lingque-1B
+Success	Two Thumbs Up
+Success	Tianlian-2
+Success	EMISAT & Rideshares
+Success	Progress MS-11 (72P)
+Success	O3b FM17-FM20
+Success	ArabSat 6A
+Success	CRS NG-11
+Success	Beidou-3 IGSO-1
+Success	Tianhui-2 Group 01
+Success	NS-11
+Success	CRS-17
+Success	That's a Funny Looking Cactus
+Success	Beidou-2 G8
+Success	RISAT-2B
+Failure	Yaogan Weixing-33
+Success	Starlink V0.9
+Success	Cosmos 2534
+Success	Yamal-601
+Success	Jilin-1 & Others
+Success	RADARSAT Constellation
+Success	Eutelsat 7C &  AT&T T-16
+Success	Beidou-3 IGSO-2
+Success	STP-2
+Success	Make it Rain
+Partial Failure	Launch 3
+Success	"Meteor-M No.2-2, Landmapper-BC 5 & 6, and Others"
+Success	Cosmos 2535 to 2538
+Failure	Falcon Eye 1
+Success	Spektr-RG
+Success	Soyuz MS-13 (59S)
+Success	Chandrayaan-2 lunar mission
+Success	CAS-7B & Others
+Success	CRS-18
+Success	Yaogan-30-05
+Success	Meridian-M n†­18L
+Success	Progress MS-12
+Success	Cosmos 2539
+Success	EDRS-C/HYLAS 3 & Intelsat 39
+Success	AMOS-17
+Success	AEHF 5
+Success	Tianqi-4 & Others
+Success	ChinaSat 18
+Success	"Look Ma, No Hands!"
+Success	Soyuz MS-14 (60S)
+Success	GPS III SV02
+Prelaunch Failure	Nahid-1
+Success	Cosmos 2540
+Success	KX-09 & Others
+Success	"Ziyuan-2D, BNU-1 & Taurus-1"
+Success	Zhuhai-1 Group 03
+Success	BeiDou-3 M23 & M24
+Success	HTV-8
+Success	Yunhai-1-02
+Success	Soyuz MS-15 (61S)
+Success	Cosmos 2541
+Success	Gaofen 10 (Replacement)
+Success	Eutelsat 5 West B & MEV-1
+Success	ICON
+Success	As The Crow Flies
+Success	TJSW-4
+Failure	Launch 4
+Success	CRS NG-12
+Success	Gaofen-7
+Success	Beidou-3 IGSO-3
+Success	Starlink V1 L1
+Success	Jilin 1-02A
+Success	Ningxia-1 (x5)
+Success	"KL-Alpha A, KL-Alpha B"
+Success	BeiDou-3 M21 & M22
+Success	Cosmos 2542 & 2543
+Success	Inmarsat 5 F5 & TIBA-1
+Success	Cartosat-3 & Rideshares
+Success	Gaofen-12
+Success	CRS-19
+Success	Running Out Of Fingers
+Success	Progress MS-13 (74P)
+Success	Jilin-1 Gaofen-02B
+Success	HEAD-2A/B / SpaceTY 16/17 / Tianqi 4A/B
+Success	Cosmos 2544
+Success	RISAT 2BR1
+Success	NS-12
+Success	BeiDou-3 M19 & M20
+Success	JCSAT-18 / Kacific-1
+Success	"CSG-1, CHEOPS & Others"
+Success	"CBERS-4A, ETRSS-1 & Others"
+Success	Starliner OFT
+Success	Elektro-L n†­3
+Success	"Gonets-M ???24, 25, 26 [block-15] & Blits-M1"
+Success	Shijian-20
+Success	Starlink V1 L2
+Success	TJSW-5
+Success	Jilin-1 Wideband 01 & ??uSat-7/8
+Success	Yinhe-1
+Success	Eutelsat Konnect BB4A & GSAT-30
+Success	Crew Dragon Inflight Abort Test
+Success	Starlink V1 L3
+Success	Birds of a Feather / NROL-151
+Success	OneWeb #2
+Success	IGS-Optical 7
+Failure	Zafar 1
+Success	Solar Orbiter
+Success	CRS NG-13
+Success	Starlink V1 L4
+Success	JCSAT-17 & GEO-KOMPSAT 2B
+Success	XJS-C to F
+Success	Meridian-M n†­19L
+Success	CRS-20
+Success	Beidou-3 G2
+Failure	XJY-6
+Success	Cosmos 2545
+Success	Starlink V1 L5
+Success	OneWeb #3
+Success	Yaogan-30-06
+Success	AEHF 6
+Success	Soyuz MS-16
+Failure	Nusantara Dua
+Success	Noor 1
+Success	Starlink V1 L6
+Success	Progress MS-14
+Success	Test Flight (New Crew Capsule)
+Success	Xingyun-2 01 (Wuhan) & 02
+Success	OTV-6 (USSF-7)
+Success	HTV-9
+Success	Cosmos 2546
+Failure	Demo Flight
+Success	XJS-G and XJS-H
+Success	SpaceX Demo-2
+Success	Gaofen-9-02 & HEAD-4
+Success	Starlink V1 L7
+Success	Haiyang-1D
+Success	Don't stop me now!
+Success	Starlink V1 L8 & SkySat 16 to 18
+Success	"Gaofen-9 03, Pixing III A & HEAD-5"
+Success	Beidou-3 G3
+Success	GPS III SV03
+Success	Gaofen Duomo & BY-02
+Failure	Pics Or It Didn't Happen
+Success	Shiyan-6 02
+Success	Ofek-16
+Success	Apstar-6D
+Failure	"Jilin-1 02E, CentiSpace-1 S2"
+Success	NROL-129
+Success	Hope Mars Mission
+Success	ANASIS-II
+Success	Tianwen-1
+Success	Progress MS-15
+Success	"Ziyuan-3 03, Apocalypse-10 & NJU-HKU 1"
+Success	Perseverance
+Success	Ekspress-80 & Ekspress-103
+Success	150 Meter Hop
+Success	Gaofen-9 04 & Q-SAT
+Success	Starlink V1 L9 & BlackSky
+Success	"BSat 4b & Galaxy 30, MEV-2"
+Success	Starlink V1 L10 & SkySat 19 to 21
+Success	"Gaofen-9 05, Tiantuo-5 & MTS"
+Success	SAOCOM 1B & Rideshares
+Success	I Can’t Believe It’s Not Optical
+Success	SSMS n°1 PoC
+Success	Starlink V1 L11
+Success	Experimental Spaceplane (CSSHQ)
+Success	Gaofen-11 02
+Failure	Rocket 3.1
+Failure	Jilin-1 High Resolution 02C
+Success	Jilin-1 High Resolution 03
+Success	Haiyang 2C
+Success	Huanjing-2A & 2B
+Success	Goniets-M n°27L to 29L & Others
+Success	CRS NG-14
+Success	Starlink V1 L12
+Success	Gaofen-13
+Success	NS-13
+Success	Soyuz MS-17
+Success	Starlink V1 L13
+Success	Starlink V1 L14
+Success	Cosmos 2547
+Success	Yaogan-30 07 & Apocalypse-6
+Success	In Focus
+Success	GPS III-4
+Success	ÑuSat 9 to 18 & Others
+Success	I Believe I Can Fly
+Success	EOS-01 & Rideshares
+Success	Tiantong-1 02
+Success	NROL-101
+Success	SpaceX Crew-1
+Failure	Taranis & Seosat
+Success	Return To Sender
+Success	Sentinel-6A Michael Freilich
+Success	Chang'e 5
+Success	Starlink V1 L15
+Success	JDRS-1
+Success	Falcon Eye 2
+Success	Goniets-M n°30L to 32L & Cosmos 2548
+Success	Gaofen 14
+Success	CRS SpX-21
+Success	GECAM 1 & 2
+Partial Failure	12.5-Kilometer Test Flight
+Success	NROL-44
+Partial Failure	VF-02
+Success	SXM-7
+Success	MGM n°2
+Success	The Owl’s Night Begins
+Failure	Rocket 3.2
+Success	CMS-01
+Success	OneWeb #4
+Success	NROL-108
+Success	"XJY-7, Haisi-1 & Others"
+Success	Yaogan-33(R) & Weina 2
+Success	CSO-2
+Success	Türksat 5A
+Success	NS-14
+Success	ELaNa XX
+Success	Tiantong-1 03
+Success	Another One Leaves The Crust
+Success	Starlink V1 L16
+Success	Transporter 1
+Success	Yaogan-31 02
+Failure	6 Unknown Payloads
+Success	Demo Flight
+Partial Failure	10-Kilometer Test Flight
+Success	Cosmos 2549
+Success	Starlink V1 L18
+Success	-TJS 6.00
+Success	Progress MS-16
+Success	Starlink V1 L19
+Success	CRS NG-15
+Success	Yaogan-31 03
+Success	Amazônia 1 & Others
+Success	Arktika-M n°1
+Partial Failure	10-Kilometer Test Flight
+Success	Starlink V1 L17
+Success	Starlink V1 L20
+Success	Shiyan 9
+Success	Yaogan-31 04
+Success	Starlink V1 L21
+Success	CAS500-1 & Others
+Success	They Go Up So Fast
+Success	Starlink V1 L22
+Success	OneWeb #5
+Failure	10-Kilometer Test Flight
+Success	Gaofen-12 02
+Success	Starlink V1 L23
+Success	Shiyan-6 03
+Success	Soyuz MS-18
+Success	NS-15
+Success	SpaceX Crew-2
+Success	OneWeb #6
+Success	NROL-82
+Success	"Qilu-1, 4 & Rideshares"
+Success	Pléiades-Néo 3 & SSMS n°2
+Success	Tianhe
+Success	Starlink V1 L24
+Success	Yaogan 34
+Success	Starlink V1 L25
+Success	10-Kilometer Test Flight
+Success	Yaogan-30 08 & Apocalypse 12
+Success	Starlink V1 L27
+Failure	Running Out of Toes
+Success	Starlink V1 L26 & Rideshares
+Success	SBIRS GEO-5
+Success	Haiyang 2D
+Success	VF-03
+Success	Starlink V1 L28
+Success	OneWeb #7
+Success	Tianzhou 2
+Success	Fengyun-4B
+Success	CRS SpX-22
+Success	SXM-8
+Success	"Beijing-3, Haisi-2 & Others"
+Success	Odyssey (TacRL-2)
+Success	NROL-111
+Success	Shenzhou 12
+Success	GPS III-5
+Success	Yaogan-30 09 & Apocalypse 14
+Success	Cosmos 2550
+Success	Progress MS-17
+Success	"Tubular Bells, Part One"
+Success	Transporter 2
+Success	OneWeb #8
+Success	Jilin-1 Wideband-01B & High Resolution 03D
+Success	Fengyun-3E
+Success	Tianlian 1-05
+Success	Zhongzi Group 02 (Ningxia-1-02)
+Success	Unity 22
+Success	Yaogan-30 10
+Success	NS-16
+Success	MLM-U Nauka
+Success	Tianhui-1 04
+Success	It’s a Little Chile Up Here
+Success	Eutelsat Quantum & Star One D2
+Failure	Jilin-1 Mofang-01A (?)
+Success	KL-Beta A & B
+Success	Zhongxing-2E
+Success	CRS NG-16
+Failure	EOS-03
+Success	"Pléiades-Néo 4, BRO-4 & Others"
+Success	Tianhui-2 2A & 2B
+Success	OneWeb #9
+Success	RSW-01 - 03
+Success	TJSW-7
+Success	NS-17
+Failure	STP-27AD1
+Success	CRS SpX-23
+Failure	DREAM (Demo Flight)
+Success	Gaofen-5 02
+Success	ChinaSat 9B (Zhongxing-9B)
+Success	Cosmos 2551
+Success	Starlink Group 2-1
+Success	OneWeb #10
+Success	Inspiration4
+Success	Tianzhou 3
+Success	Jilin-1 High Resolution 02D
+Success	Shiyan 10
+Success	Landsat 9 & Others
+Success	Soyuz MS-19
+Success	NS-18
+Success	OneWeb #11
+Success	CHASE (Chinese Hα Solar Explorer) & Tianyuan-1
+Success	Shenzhou 13
+Success	Lucy
+Failure	Test Flight
+Success	Shijian 21
+Success	SES-17 & Syracuse-4A
+Success	QZS-1R
+Success	Jilin-1 High Resolution 02F
+Success	Progress MS-18
+Success	Yaogan-32 02
+Success	SDGSAT-1
+Success	Yaogan 35 A/B/C
+Success	RAISE-2 & Others
+Success	SpaceX Crew-3
+Success	Starlink Group 4-1
+Success	"CERES 1, 2 & 3"
+Success	Love At First Insight
+Success	Gaofen-11 03
+Success	STP-27AD2
+Success	Gaofen-3 02
+Success	DART
+Success	Progress M-UM Prichal
+Success	Shiyan 11
+Success	Cosmos 2552
+Success	ChinaSat 1D
+Success	Starlink Group 4-3 & BlackSky
+Success	Galileo FOC FM23-FM24
+Success	Keep On Moving
+Success	STP-3
+Success	Soyuz MS-20 / Space Adventures
+Success	A Data With Destiny
+Success	IXPE
+Success	Shijian 6 Group 05
+Success	NS-19
+Partial Failure	Ekspress-AMU3 & AMU7
+Success	Tianlian-2-02
+Failure	GeeSAT-1A & 1B
+Success	Starlink Group 4-4
+Success	Türksat 5B
+Success	CRS SpX-24
+Success	Inmarsat I-6 F1
+Success	Shiyan 12-01 & 02
+Success	James Webb Space Telescope (JWST)
+Success	Ziyuan-1 02E & CAS-9
+Success	OneWeb #12
+Failure	MGM n°3
+Success	Tianhui 4
+Success	TJSW-9
+Failure	3 Unknown payloads
+Success	Starlink Group 4-5
+Success	Transporter 3
+Success	STP-27VPB/Above the Clouds
+Success	Shiyan 13
+Success	Starlink Group 4-6
+Success	GSSAP 5 & 6 (USSF-8)
+Success	L-SAR 01A
+Success	CSG-2
+Success	NROL-87
+Success	Starlink Group 4-7
+Success	Cosmos 2553
+Success	OneWeb #13
+Failure	VCLS Demo-2A
+Success	EOS-04 & Others
+Success	Progress MS-19
+Success	CRS NG-17
+Success	Starlink Group 4-8
+Success	Starlink Group 4-11
+Success	L-SAR 01B
+Success	"Hainan-1, Jilin Gaofen-03D & Others"
+Success	The Owl’s Night Continues
+Success	GOES-T (GOES-18)
+Success	Starlink Group 4-9
+Success	Yinhe-1 (x6) & Others
+Success	Nour 2
+Success	Starlink Group 4-10
+Success	Spaceflight Astra-1
+Success	Yaogan 34-02
+Success	Soyuz MS-21
+Success	Starlink Group 4-12
+Success	Meridian-M n°20L
+Success	Pujiang-2 & Tiankun-2
+Success	Tianping-2 A to C
+Success	NS-20
+Success	Transporter 4
+Success	Without Mission a Beat
+Success	Gaofen-3 03
+Success	Cosmos 2554
+Success	Axiom Mission 1 (Ax-1)
+Success	ChinaSat 6D
+Success	Daqi-1 (AEMS)
+Success	NROL-85
+Success	Starlink Group 4-14
+Success	SpaceX Crew-4
+Success	SuperView Neo 1-01 & 02
+Success	Cosmos 2555
+Success	Starlink Group 4-16
+Success	Jilin-1 Gaofen 03D-04 to 07 & 04A
+Success	There and Back Again
+Success	Jilin-1 Wideband-01C & High Resolution 03D-27 to 33
+Success	Starlink Group 4-17
+Success	Tianzhou 4
+Failure	Jilin-1 Mofang-01A(R)
+Success	Starlink Group 4-13
+Success	Starlink Group 4-15
+Success	Starlink Group 4-18
+Success	Cosmos 2556
+Success	Starliner OFT-2
+Success	RSW-04 - 06
+Success	Transporter 5
+Success	Geely Constellation Group 01
+Success	Progress MS-20
+Success	NS-21
+Success	Shenzhou 14
+Success	Nilesat-301
+Success	Starlink Group 4-19
+Success	SARah 1
+Success	Globalstar FM15 & USA 328 to 331
+Success	Test Flight 2
+Success	Tianxing-1
+Success	Measat-3d & GSAT-24
+Success	Yaogan 35 Group 02
+Success	Gaofen-12 03
+Success	CAPSTONE
+Success	SES-22
+Success	"DS-EO, NeuSAR, SCOOB-I & POEM"
+Success	USSF-12 (WFOV)
+Success	STP-S28A
+Success	Cosmos 2557
+Success	Starlink Group 4-21
+Success	Starlink Group 3-1
+Success	Tianlian-2-03
+Failure	TROPICS Flight 1
+Success	Wise One Looks Ahead (NROL-162)
+Success	LARES 2 & Cubesats
+Success	CRS SpX-25
+Success	SuperView Neo 2-01 & 02
+Success	Starlink Group 4-22
+Success	Starlink Group 3-2
+Success	Wentian
+Success	Starlink Group 4-25
+Success	Demo Flight
+Success	Yaogan 35 Group 03
